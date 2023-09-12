@@ -49,21 +49,21 @@
         "81b9cb7d-7cdb-4565-b1ec-77ae608dba03": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "INFORMATION",
             "menu": "footer"
           }
         },
         "c47cc7cb-867a-4ed8-9bd6-cc67f31b52dc": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "RESOURCES",
             "menu": "footer"
           }
         },
         "d7db2c9a-475f-4558-b236-2a4d71796616": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "HELP",
             "menu": "footer"
           }
         }
