@@ -60,6 +60,15 @@
         "f77959d4-7a80-49d7-9faa-ef1df158f90e",
         "5b5a8b52-f5ce-4769-851d-f40c6ce639c2"
       ],
+      "custom_css": [
+        ".list-social__link {margin: 10px; background-color: #54cddf; border-radius: 100px;}",
+        ".footer-block__image-wrapper {box-shadow: none;}",
+        "h2 {font-size: 22px;}",
+        "@media (max-width: 749px) {h2 {font-size: 18px; }}",
+        ".list-social__link path {fill: #fff;}",
+        ".footer-block--menu:nth-of-type(4) li:nth-of-type(1) a {background-color: #fd8b72; width: 100px; padding: 5px 15px; border-radius: 50px; color: #fff;}",
+        ".footer-block--menu:nth-of-type(4) li:nth-of-type(3) a {background-color: #54cddf; width: 100px; padding: 5px 15px; border-radius: 50px; color: #fff;}"
+      ],
       "settings": {
         "color_scheme": "background-1",
         "newsletter_enable": false,
