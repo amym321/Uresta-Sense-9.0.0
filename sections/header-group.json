@@ -1,1 +1,51 @@
-{"name":"t:sections.header.name","type":"header","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","disabled":true,"settings":{"text":"Happy Mother’s Day! Buy 1, Save 15% | Buy 2, Save 25% | Replacement Sizes – Save 15%","text_alignment":"center","color_scheme":"accent-1","link":""}}},"block_order":["announcement-bar-0"],"settings":{}},"header":{"type":"header","custom_css":[],"settings":{"logo_position":"top-left","menu":"main-menu","menu_type_desktop":"dropdown","sticky_header_type":"on-scroll-up","show_line_separator":false,"color_scheme":"background-1","enable_country_selector":false,"enable_language_selector":false,"mobile_logo_position":"center","margin_bottom":24,"padding_top":20,"padding_bottom":20}}},"order":["announcement-bar","header"]}
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Try risk free: 30-day refund window for Starter Kit and Free Shipping on $50+",
+            "text_alignment": "center",
+            "color_scheme": "inverse",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0"
+      ],
+      "settings": {
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+        "@media (min-width: 990px) {.header--middle-left {grid-template-columns: auto 1fr auto; } .header__inline-menu {display: flex; justify-content: end; }}",
+        ".header__menu-item {padding: 1.2rem 3rem;}",
+        "sticky-header {border-bottom: #888; box-shadow: 0 2px 4px #888888;}"
+      ],
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": false,
+        "color_scheme": "background-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 24,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
