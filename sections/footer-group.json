@@ -67,13 +67,21 @@
             "heading": "HELP",
             "menu": "footer"
           }
+        },
+        "f6857f28-e28c-4796-a193-e178a200a52f": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
         "63e3900a-fe7a-4ff8-a9b9-ce0c5c91cd81",
         "81b9cb7d-7cdb-4565-b1ec-77ae608dba03",
         "c47cc7cb-867a-4ed8-9bd6-cc67f31b52dc",
-        "d7db2c9a-475f-4558-b236-2a4d71796616"
+        "d7db2c9a-475f-4558-b236-2a4d71796616",
+        "f6857f28-e28c-4796-a193-e178a200a52f"
       ],
       "custom_css": [
         ".list-social__link {margin: 10px; background-color: #54cddf; border-radius: 100px;}",
