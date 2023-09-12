@@ -71,7 +71,8 @@
         "f6857f28-e28c-4796-a193-e178a200a52f": {
           "type": "image",
           "settings": {
-            "image_width": 100,
+            "image": "shopify:\/\/shop_images\/Uresta-logo.png",
+            "image_width": 270,
             "alignment": "center"
           }
         }
