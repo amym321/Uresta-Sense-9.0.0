@@ -39,26 +39,40 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "f77959d4-7a80-49d7-9faa-ef1df158f90e": {
-          "type": "text",
-          "disabled": true,
+        "63e3900a-fe7a-4ff8-a9b9-ce0c5c91cd81": {
+          "type": "image",
           "settings": {
-            "heading": "Still on the fence?",
-            "subtext": "<p>Uresta can make a huge difference in your life, both physically and mentally. ‘Liberating’, ‘life-saver’, ‘gamechanger’ are just a few of the words women use to describe Uresta (just check out <a href=\"https:\/\/uresta.com\/testimonials\/\"><strong>our testimonials<\/strong><\/a>).<\/p>"
+            "image_width": 100,
+            "alignment": "center"
           }
         },
-        "5b5a8b52-f5ce-4769-851d-f40c6ce639c2": {
+        "81b9cb7d-7cdb-4565-b1ec-77ae608dba03": {
           "type": "link_list",
-          "disabled": true,
           "settings": {
-            "heading": "Quick Links",
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "c47cc7cb-867a-4ed8-9bd6-cc67f31b52dc": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "d7db2c9a-475f-4558-b236-2a4d71796616": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
             "menu": "footer"
           }
         }
       },
       "block_order": [
-        "f77959d4-7a80-49d7-9faa-ef1df158f90e",
-        "5b5a8b52-f5ce-4769-851d-f40c6ce639c2"
+        "63e3900a-fe7a-4ff8-a9b9-ce0c5c91cd81",
+        "81b9cb7d-7cdb-4565-b1ec-77ae608dba03",
+        "c47cc7cb-867a-4ed8-9bd6-cc67f31b52dc",
+        "d7db2c9a-475f-4558-b236-2a4d71796616"
       ],
       "custom_css": [
         ".list-social__link {margin: 10px; background-color: #54cddf; border-radius: 100px;}",
