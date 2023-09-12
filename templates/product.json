@@ -359,6 +359,48 @@
         "padding_bottom": 36
       }
     },
+    "1675e42d-1a3f-4903-acc4-9097abea8637": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16134367412421__1675e42d-1a3f-4903-acc4-9097abea8637-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--16134367412421__1675e42d-1a3f-4903-acc4-9097abea8637-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--16134367412421__1675e42d-1a3f-4903-acc4-9097abea8637-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16134367412421__1675e42d-1a3f-4903-acc4-9097abea8637-heading-1",
+        "template--16134367412421__1675e42d-1a3f-4903-acc4-9097abea8637-text-1",
+        "template--16134367412421__1675e42d-1a3f-4903-acc4-9097abea8637-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 20
+      }
+    },
     "9d3d8e07-b680-430e-858e-a7afc0a00422": {
       "type": "image-with-text",
       "blocks": {
@@ -454,6 +496,7 @@
     "related-products",
     "972f6ace-4822-4911-ba85-f5e90011c9eb",
     "99b742ff-851f-4e6a-9016-ff9c14ade917",
+    "1675e42d-1a3f-4903-acc4-9097abea8637",
     "9d3d8e07-b680-430e-858e-a7afc0a00422",
     "4cd691eb-7654-4be0-950d-3ffdcd2e8b23"
   ]
