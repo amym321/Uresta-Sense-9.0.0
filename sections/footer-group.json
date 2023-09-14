@@ -90,8 +90,7 @@
         "h2 {font-size: 22px;}",
         "@media (max-width: 749px) {h2 {font-size: 18px; }}",
         ".list-social__link path {fill: #fff;}",
-        ".list-social {justify-content: center;}",
-        "@media (min-width: 750px) {.footer__content-top {padding-left:0; padding-right:0;}}"
+        ".list-social {justify-content: center;}"
       ],
       "settings": {
         "color_scheme": "background-1",
