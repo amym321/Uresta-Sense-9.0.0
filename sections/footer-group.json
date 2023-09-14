@@ -39,15 +39,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "63e3900a-fe7a-4ff8-a9b9-ce0c5c91cd81": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Website-Landing-Pages_Logo_829bb3ef-daea-4667-84ff-dc2d22341e0e.png",
-            "image_width": 285,
-            "alignment": "center"
-          }
-        },
         "4f80e17e-c5c7-4765-bf6d-2a1458d7dabf": {
           "type": "image",
           "settings": {
@@ -86,7 +77,6 @@
         }
       },
       "block_order": [
-        "63e3900a-fe7a-4ff8-a9b9-ce0c5c91cd81",
         "4f80e17e-c5c7-4765-bf6d-2a1458d7dabf",
         "81b9cb7d-7cdb-4565-b1ec-77ae608dba03",
         "c47cc7cb-867a-4ed8-9bd6-cc67f31b52dc",
