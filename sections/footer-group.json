@@ -71,6 +71,7 @@
         "0222fb33-ea85-4697-9b0a-37a5dec7847d": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Website-Landing-Pages_Logo_829bb3ef-daea-4667-84ff-dc2d22341e0e.png",
             "image_width": 270,
             "alignment": "center"
           }
