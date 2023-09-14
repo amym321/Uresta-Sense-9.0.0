@@ -6,13 +6,19 @@
           {%- if block.settings.link != blank -%}
             <a href="{{ block.settings.link }}" class="announcement-bar__link link link--text focus-inset animate-arrow">
           {%- endif -%}
-              <div class="page-width">
-                <p class="announcement-bar__message {{ block.settings.text_alignment }} h5">
-                  <span>{{ block.settings.text | escape }}</span>
-                  {%- if block.settings.link != blank -%}
-                    {% render 'icon-arrow' %}
-                  {%- endif -%}
-                </p>
+              {% comment %} Canada/US links - am {% endcomment %}
+              <div class="page-width announcement-container">
+                <div class="announcement-line">
+                  <p class="announcement-bar__message {{ block.settings.text_alignment }} h5">
+                    <span>{{ block.settings.text | escape }}</span>
+                    {%- if block.settings.link != blank -%}
+                      {% render 'icon-arrow' %}
+                    {%- endif -%}
+                    {% comment %} <span>1 USA | CAN</span> {% endcomment %}
+                  </p>
+                  <div class="announcement-country">
+                    <a class="country-link" href="https://myuresta.com" target="_blank">USA</a> | <b>CAN</b></div>
+                </div>
               </div>
           {%- if block.settings.link != blank -%}
             </a>
@@ -21,6 +27,52 @@
       </div>
   {%- endcase -%}
 {%- endfor -%}
+
+{% comment %} Canada/US links css - am {% endcomment %}
+<style>
+  .announcement-container {
+    width: 100%;
+    float: none;
+    display: block;
+    text-align: center;
+    padding: 10px 0;
+  }
+  .announcement-line {
+    display: inline-block;
+  }
+  .announcement-bar__message  {
+    padding: 0;
+  }
+  .announcement-country {
+    border: 2px solid #373033;
+    background: rgba(0,0,0,0.25);
+    padding: 2px 10px;
+    border-radius: 50px;
+    position: absolute;
+    right: 10px;
+    top: 6px;
+  }
+  .country-link {
+    color: rgb(var(--color-foreground));
+    text-decoration: none;
+  }
+  .country-link:hover {
+    color: #fd856d;
+  }
+  @media (max-width: 990px) {
+    .announcement-line {
+      display: grid !important;
+    }
+    .announcement-country {
+      position:unset !important;
+      grid-row: 1;
+      max-width: max-content;
+      margin: 0 auto 10px;
+    }
+  }
+</style>
+
+
 
 {% schema %}
 {
