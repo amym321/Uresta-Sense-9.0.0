@@ -1448,6 +1448,12 @@
       },
       {
         "type": "text",
+        "id": "social_linkedin_link",
+        "label": "LinkedIn",
+        "info": "https://www.linkedin.com/"
+      },
+      {
+        "type": "text",
         "id": "social_pinterest_link",
         "label": "t:settings_schema.social-media.settings.social_pinterest_link.label",
         "info": "t:settings_schema.social-media.settings.social_pinterest_link.info"
