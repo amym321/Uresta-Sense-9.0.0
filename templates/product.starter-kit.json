@@ -376,32 +376,20 @@
         "template--14945099743283__e978545a-12d1-4de4-ae12-e7a83b197a03-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "Your Secret weapon against leaks",
+            "heading_size": "h2"
           }
         },
         "template--14945099743283__e978545a-12d1-4de4-ae12-e7a83b197a03-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--14945099743283__e978545a-12d1-4de4-ae12-e7a83b197a03-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Uresta is the only solution that is readily available and doesn't require a subscription to immediately improve quality of life without invasive surgery.<\/p>"
           }
         }
       },
       "block_order": [
         "template--14945099743283__e978545a-12d1-4de4-ae12-e7a83b197a03-heading-1",
-        "template--14945099743283__e978545a-12d1-4de4-ae12-e7a83b197a03-text-1",
-        "template--14945099743283__e978545a-12d1-4de4-ae12-e7a83b197a03-button-1"
+        "template--14945099743283__e978545a-12d1-4de4-ae12-e7a83b197a03-text-1"
       ],
       "settings": {
         "desktop_content_position": "center",
