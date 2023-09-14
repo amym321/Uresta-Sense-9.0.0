@@ -408,6 +408,7 @@
         ".image-with-text__media-item:after {box-shadow: none;}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/benefits-uresta.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
