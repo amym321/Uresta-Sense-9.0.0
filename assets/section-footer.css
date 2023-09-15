@@ -514,39 +514,3 @@
     }
   }
 }
-
-
-
-/**********************************/
-/********* AM Studio - am *********/
-/**********************************/
-
-@media screen and (min-width: 750px) {
-  .footer__content-top .grid--3-col-tablet .grid__item {
-    width: calc(25% - var(--grid-desktop-horizontal-spacing) * 3 / 4);
-  }
-  .footer-block.grid__item:nth-of-type(5) {
-    display:none;
-  }
-}
-
-@media(max-width: 749px) {
-  .footer-block.grid__item:nth-of-type(1) {
-    display:none;
-  }
-}
-
-.footer-block--menu:nth-of-type(4) li:nth-of-type(1) a {
-  background-color: #fd8b72;
-}
-.footer-block--menu:nth-of-type(4) li:nth-of-type(2) a {
-  background-color: #54cddf;
-  margin-top:20px;
-}
-.footer-block--menu:nth-of-type(4) li:nth-of-type(1) a,
-.footer-block--menu:nth-of-type(4) li:nth-of-type(2) a {
-  width: 123px;
-  padding: 5px 15px;
-  border-radius: 50px;
-  color: #fff;
-}
