@@ -1,17 +1,17 @@
 <ul class="footer__list-social list-unstyled list-social">
-  {%- if settings.social_facebook_link != blank -%}
+  {%- if settings.social_instagram_link != blank -%}
     <li class="list-social__item">
-      <a href="{{ settings.social_facebook_link }}" class="link list-social__link" >
-        {%- render 'icon-facebook' -%}
-        <span class="visually-hidden">{{ 'general.social.links.facebook' | t }}</span>
+      <a style="padding: 0;" href="{{ settings.social_instagram_link }}" class="link list-social__link" >
+        {%- render 'icon-instagram' -%}
+        <span class="visually-hidden">{{ 'general.social.links.instagram' | t }}</span>
       </a>
     </li>
   {%- endif -%}
-  {%- if settings.social_instagram_link != blank -%}
+  {%- if settings.social_facebook_link != blank -%}
     <li class="list-social__item">
-      <a href="{{ settings.social_instagram_link }}" class="link list-social__link" >
-        {%- render 'icon-instagram' -%}
-        <span class="visually-hidden">{{ 'general.social.links.instagram' | t }}</span>
+      <a style="padding: 0;" href="{{ settings.social_facebook_link }}" class="link list-social__link" >
+        {%- render 'icon-facebook' -%}
+        <span class="visually-hidden">{{ 'general.social.links.facebook' | t }}</span>
       </a>
     </li>
   {%- endif -%}
@@ -52,6 +52,14 @@
       <a href="{{ settings.social_snapchat_link }}" class="link list-social__link" >
         {%- render 'icon-snapchat' -%}
         <span class="visually-hidden">{{ 'general.social.links.snapchat' | t }}</span>
+      </a>
+    </li>
+  {%- endif -%}
+  {%- if settings.social_linkedin_link != blank -%}
+    <li class="list-social__item">
+      <a style="padding: 0;" href="{{ settings.social_linkedin_link }}" class="link list-social__link" >
+        {%- render 'icon-linkedin' -%}
+        <span class="visually-hidden">LinkedIn</span>
       </a>
     </li>
   {%- endif -%}

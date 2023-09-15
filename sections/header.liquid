@@ -3,6 +3,10 @@
 <link rel="stylesheet" href="{{ 'component-menu-drawer.css' | asset_url }}" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="{{ 'component-cart-notification.css' | asset_url }}" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="{{ 'component-cart-items.css' | asset_url }}" media="print" onload="this.media='all'">
+
+{% comment %} custom css - am {% endcomment %}
+<link rel="stylesheet" href="{{ 'custom-css.css' | asset_url }}" media="print" onload="this.media='all'">
+
 {%- if settings.predictive_search_enabled -%}
   <link rel="stylesheet" href="{{ 'component-price.css' | asset_url }}" media="print" onload="this.media='all'">
   <link rel="stylesheet" href="{{ 'component-loading-overlay.css' | asset_url }}" media="print" onload="this.media='all'">
@@ -320,6 +324,14 @@
                         <a href="{{ settings.social_snapchat_link }}" class="list-social__link link">
                           {%- render 'icon-snapchat' -%}
                           <span class="visually-hidden">{{ 'general.social.links.snapchat' | t }}</span>
+                        </a>
+                      </li>
+                    {%- endif -%}
+                    {%- if settings.social_linkedin_link != blank -%}
+                      <li class="list-social__item">
+                        <a href="{{ settings.social_linkedin_link }}" class="list-social__link link">
+                          {%- render 'icon-linkedin' -%}
+                          <span class="visually-hidden">{{ 'general.social.links.linkedin' | t }}</span>
                         </a>
                       </li>
                     {%- endif -%}
@@ -873,6 +885,7 @@
       {{ settings.social_tiktok_link | json }},
       {{ settings.social_tumblr_link | json }},
       {{ settings.social_snapchat_link | json }},
+      {{ settings.social_linkedin_link | json }},
       {{ settings.social_youtube_link | json }},
       {{ settings.social_vimeo_link | json }}
     ],

@@ -291,6 +291,10 @@
           "label": "Snapchat",
           "info": "https://www.snapchat.com/add/shopify"
         },
+        "social_linkedin_link": {
+          "label": "LinkedIn",
+          "info": "https://www.linkedin.com/company/uresta"
+        },
         "social_youtube_link": {
           "label": "YouTube",
           "info": "https://www.youtube.com/shopify"

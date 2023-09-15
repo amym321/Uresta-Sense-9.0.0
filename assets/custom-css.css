@@ -1,0 +1,23 @@
+/***********************/
+/***** custom - am *****/
+/***********************/
+
+
+/*** social icons ***/
+.footer__list-social li .list-social__link{
+  max-width: 40px;
+  max-height: 40px;
+}
+
+/*** footer ***/
+.footer-block__image-wrapper {
+  margin-bottom: 0 !important;
+}
+.footer__copyright {
+  transform: translatey(-10px);
+}
+@media (max-width: 749px){
+  .footer__copyright {
+    transform: translatey(-15px);
+  }
+}
