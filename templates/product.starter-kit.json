@@ -108,10 +108,13 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "eye",
+            "image_1": "shopify:\/\/shop_images\/Uresta-Icons-01.png",
             "heading_1": "Odor Free",
             "icon_2": "return",
+            "image_2": "shopify:\/\/shop_images\/Uresta-Icons-02.png",
             "heading_2": "Hygienic",
             "icon_3": "truck",
+            "image_3": "shopify:\/\/shop_images\/Uresta-Icons-03.png",
             "heading_3": "Reusable"
           }
         }
