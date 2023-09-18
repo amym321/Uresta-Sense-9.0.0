@@ -101,18 +101,18 @@
         "template--14930299715635__bd0381cc-c5e7-4738-a72b-6962892f82a1-collapsible_row-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do I clean my Uresta?",
+            "heading": "How should I use water-based lubricant to help with insertion?",
             "icon": "check_mark",
-            "row_content": "<p>Simply wet the bladder support with warm water, apply small amount of natural cleanser, gently lather, and rinse with warm water. Wash bladder support before and after each use.<\/p>",
+            "row_content": "<p>Simply apply a small amount of the water-based lubricant to the tapered tip of the bladder support prior to insertion.<\/p>",
             "page": ""
           }
         },
         "template--14930299715635__bd0381cc-c5e7-4738-a72b-6962892f82a1-collapsible_row-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I use this cleaning gel for other purposes?",
+            "heading": "Can I use the lubricant for intercourse?",
             "icon": "check_mark",
-            "row_content": "<p>Yes, this natural cleaning gel is safe and gentle so it can be used for self cleaning, or to clean your menstrual cup or even your favorite sex toy.<\/p>",
+            "row_content": "<p>The water-based lubricant can be used for sex and is compatible with natural rubber latex and polyisoprene condoms.<\/p>",
             "page": ""
           }
         },
@@ -121,7 +121,7 @@
           "settings": {
             "heading": "Does it expire?",
             "icon": "check_mark",
-            "row_content": "<p>There is no expiry on this product.<\/p>",
+            "row_content": "<p>The water-based lubricant has a 3-year shelf life.<\/p>",
             "page": ""
           }
         },
@@ -130,7 +130,16 @@
           "settings": {
             "heading": "Where is it made?",
             "icon": "check_mark",
-            "row_content": "<p>Our natural cleaning gel is formulated at a world class facility in California, with over 35 years of experience producing premium healthcare products.<\/p>",
+            "row_content": "<p>Our water-based lubricant is formulated at a world class facility in California, with over 35 years of experience producing premium health care products.<\/p>",
+            "page": ""
+          }
+        },
+        "1663e17a-c3d2-40d9-8d56-58c527d1c8ec": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it safe for daily use?",
+            "icon": "check_mark",
+            "row_content": "<p>Our water-based lubricant is safe for daily use! It does not contain any alcohols, petrochemicals, silicone, glycerin, or parabens.<\/p>",
             "page": ""
           }
         }
@@ -139,7 +148,8 @@
         "template--14930299715635__bd0381cc-c5e7-4738-a72b-6962892f82a1-collapsible_row-1",
         "template--14930299715635__bd0381cc-c5e7-4738-a72b-6962892f82a1-collapsible_row-2",
         "template--14930299715635__bd0381cc-c5e7-4738-a72b-6962892f82a1-collapsible_row-3",
-        "template--14930299715635__bd0381cc-c5e7-4738-a72b-6962892f82a1-collapsible_row-4"
+        "template--14930299715635__bd0381cc-c5e7-4738-a72b-6962892f82a1-collapsible_row-4",
+        "1663e17a-c3d2-40d9-8d56-58c527d1c8ec"
       ],
       "settings": {
         "caption": "",
