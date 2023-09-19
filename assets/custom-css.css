@@ -2,14 +2,56 @@
 /***** custom - am *****/
 /***********************/
 
+/*** header ***/
+
+.cart-count-bubble {
+  bottom: 2.8rem !important;
+}
+
+.header__menu-item {
+  padding: 1.2rem 4rem;
+}
+summary.list-menu__item {
+  padding-right: 5.4rem !important;
+}
+summary.list-menu__item {
+  padding-right: 5.4rem !important;
+}
+@media (max-width:1200px) {
+  .header__menu-item {
+    padding: 1.2rem 4rem;
+  }
+  summary.list-menu__item {
+    padding-right: 4rem !important;
+  }
+}
+@media (max-width:1100px) {
+  .header__menu-item {
+    padding: 1.2rem 3.2rem;
+  }
+  summary.list-menu__item {
+    padding-right: 3.2rem !important;
+  }
+}
+@media (max-width:1050px) {
+  .header__menu-item {
+    padding: 1.2rem 2.7rem;
+  }
+  summary.list-menu__item {
+    padding-right: 2.7rem !important;
+  }
+}
+
 
 /*** social icons ***/
+
 .footer__list-social li .list-social__link{
   max-width: 40px;
   max-height: 40px;
 }
 
 /*** footer ***/
+
 @media (min-width: 750px){
   .footer-block__details-content .list-menu__item--link {
     /* font-size: 12px !important; */
