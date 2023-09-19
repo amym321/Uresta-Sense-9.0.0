@@ -481,11 +481,21 @@
             {%- for link in section.settings.menu.links -%}
               <li>
                 {%- if link.links != blank -%}
-                  <header-menu>
+                  <header-menu  linklists>
                     <details id="Details-HeaderMenu-{{ forloop.index }}">
                       <summary class="header__menu-item list-menu__item link focus-inset">
+
+                      {% comment %} main link can be <a> or just text - am {% endcomment %}
+                      {% if link.url == "#" or link.url == "" %}
                         <span {%- if link.child_active %} class="header__active-menu-item"{% endif %}>{{ link.title | escape }}</span>
-                        {% render 'icon-caret' %}
+                      {% else %}
+                        <a href="{{ link.url }}" style="text-decoration: none;" {% if link.current %} aria-current="page"{% endif %}>
+                          <span style="text-decoration: none;" {%- if link.current %} class="header__active-menu-item"{% endif %}>{{ link.title | escape }}</span>
+                        </a>
+                      {% endif %}
+                        
+                      {% render 'icon-caret' %}
+
                       </summary>
                       <ul id="HeaderMenu-MenuList-{{ forloop.index }}" class="header__submenu list-menu list-menu--disclosure gradient caption-large motion-reduce global-settings-popup" role="list" tabindex="-1">
                         {%- for childlink in link.links -%}
@@ -909,6 +919,26 @@
     }
   </script>
 {%- endif -%}
+
+
+{% comment %} submenu open on mouseover - am {% endcomment %}
+<script>
+  let items = document
+    .querySelector(".header__inline-menu")
+    .querySelectorAll("details");
+  items.forEach((item) => {
+    item.addEventListener("mouseover", () => {
+      item.setAttribute("open", true);
+      item.querySelector("summary").setAttribute("aria-expanded", "true");
+      item.addEventListener("mouseout", () => {
+        item.removeAttribute("open");
+        item.querySelector("summary").setAttribute("aria-expanded", "false");
+      });
+    });
+  });
+</script>
+
+
 
 {% schema %}
 {
