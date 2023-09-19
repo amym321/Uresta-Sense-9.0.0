@@ -362,16 +362,6 @@
         "padding_bottom": 52
       }
     },
-    "99b742ff-851f-4e6a-9016-ff9c14ade917": {
-      "type": "page",
-      "settings": {
-        "page": "",
-        "heading_size": "h2",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "e978545a-12d1-4de4-ae12-e7a83b197a03": {
       "type": "rich-text",
       "blocks": {
@@ -546,7 +536,6 @@
     "bd0381cc-c5e7-4738-a72b-6962892f82a1",
     "related-products",
     "972f6ace-4822-4911-ba85-f5e90011c9eb",
-    "99b742ff-851f-4e6a-9016-ff9c14ade917",
     "e978545a-12d1-4de4-ae12-e7a83b197a03",
     "09e0178e-5e48-4bcb-9507-d4a24b837ea9",
     "118e5efe-a075-4dba-87a3-ecac47c29b19",
