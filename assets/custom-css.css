@@ -63,11 +63,6 @@ summary.list-menu__item {
 .announcement-bar__message  {
   padding: 0;
 }
-@media (min-width: 990px) {
-  .announcement-bar__message  {
-    margin: 0 122px;
-  }
-}
 .announcement-country {
   border: 2px solid #373033;
   background: rgba(0,0,0,0.25);
@@ -96,6 +91,14 @@ summary.list-menu__item {
   }
 }
 
+@media (min-width: 990px) {
+  .announcement-bar .page-width {
+    max-width: unset;
+  }
+  .announcement-bar__message  {
+    margin: 0 122px;
+  }
+}
 
 
 /*** social icons ***/
