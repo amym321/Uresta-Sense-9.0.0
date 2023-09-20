@@ -70,8 +70,18 @@
     flex-wrap: wrap;
   }
 
-  summary.list-menu__item {
-    padding-right: 2.7rem;
+  /* main menu link - am*/
+  summary.list-menu__item,
+  .main-menu-link {
+    padding-right: 2.65rem;
+  }
+  /*- am*/
+    .cart-count-bubble {
+    bottom: 2.8rem !important;
+  }
+  /*- am*/
+  .header__menu-item span {
+    font-size: 17px;
   }
 
   .list-menu__item {
@@ -483,7 +493,7 @@
                 {%- if link.links != blank -%}
                   <header-menu>
                     <details class="main-linklist" id="Details-HeaderMenu-{{ forloop.index }}">
-                      <summary class="header__menu-item list-menu__item link focus-inset">
+                      <summary class="header__menu-item list-menu__item link focus-inset main-menu-link">
 
                       {% comment %} main link can be <a> or just text - am {% endcomment %}
                       {% if link.url == "#" or link.url == "" %}
@@ -528,7 +538,7 @@
                     </details>
                   </header-menu>
                 {%- else -%}
-                  <a href="{{ link.url }}" class="header__menu-item list-menu__item link link--text focus-inset"{% if link.current %} aria-current="page"{% endif %}>
+                  <a href="{{ link.url }}" class="header__menu-item list-menu__item link link--text focus-inset main-menu-link"{% if link.current %} aria-current="page"{% endif %}>
                     <span {%- if link.current %} class="header__active-menu-item"{% endif %}>{{ link.title | escape }}</span>
                   </a>
                 {%- endif -%}
