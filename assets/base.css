@@ -2745,6 +2745,7 @@ details[open] > .header__submenu {
 
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
+  color: rgba(var(--color-foreground), 0.75);
 }
 
 .header__menu-item:hover span {
