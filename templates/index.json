@@ -32,6 +32,53 @@
         "padding_bottom": 32
       }
     },
+    "e967b74a-26dc-4542-812b-32cdb56a8cdb": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14954976018483__e967b74a-26dc-4542-812b-32cdb56a8cdb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14954976018483__e967b74a-26dc-4542-812b-32cdb56a8cdb-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14954976018483__e967b74a-26dc-4542-812b-32cdb56a8cdb-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14954976018483__e967b74a-26dc-4542-812b-32cdb56a8cdb-heading-1",
+        "template--14954976018483__e967b74a-26dc-4542-812b-32cdb56a8cdb-text-1",
+        "template--14954976018483__e967b74a-26dc-4542-812b-32cdb56a8cdb-buttons-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "ea7b59a5-bab5-48e5-ad3c-8292476e72cd": {
       "type": "featured-product",
       "blocks": {
@@ -74,6 +121,7 @@
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-price-1",
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "product": "bladder-support-starter-kit",
         "color_scheme": "background-1",
@@ -148,6 +196,7 @@
   },
   "order": [
     "featured-collection",
+    "e967b74a-26dc-4542-812b-32cdb56a8cdb",
     "ea7b59a5-bab5-48e5-ad3c-8292476e72cd",
     "0c97ff47-9b36-4a09-96e5-32e719f20721",
     "9620c66b-236e-4bce-878f-5b876d78f33c"
