@@ -67,10 +67,11 @@
         "template--14954976018483__e967b74a-26dc-4542-812b-32cdb56a8cdb-buttons-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Uresta-shop-all-hero-desktop_8e18efb7-63f8-4caf-a883-13d7b0601ad5.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "image_behavior": "none",
