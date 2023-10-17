@@ -96,22 +96,16 @@
             "heading_size": "h2"
           }
         },
-        "b2ce3378-6ae0-495f-b059-cba8ddce4104": {
-          "type": "text",
-          "settings": {
-            "text": "Uresta is the modern-day solution to bladder leakage, providing immediate relief without medical intervention. If you’re new to Uresta, you want to purchase the Starter Kit to find the right size for you.",
-            "text_style": "body"
-          }
-        },
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-price-1": {
           "type": "price",
           "settings": {
           }
         },
-        "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1": {
-          "type": "buy_buttons",
+        "b2ce3378-6ae0-495f-b059-cba8ddce4104": {
+          "type": "text",
           "settings": {
-            "show_dynamic_checkout": false
+            "text": "Uresta is the modern-day solution to bladder leakage, providing immediate relief without medical intervention. If you’re new to Uresta, you want to purchase the Starter Kit to find the right size for you.",
+            "text_style": "body"
           }
         },
         "e984c84d-8a70-4c51-ba1e-d7554f55c406": {
@@ -128,15 +122,21 @@
             "image_3": "shopify:\/\/shop_images\/Uresta-Icons-03.png",
             "heading_3": "Reusable"
           }
+        },
+        "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
         }
       },
       "block_order": [
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-text-1",
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-title-1",
-        "b2ce3378-6ae0-495f-b059-cba8ddce4104",
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-price-1",
-        "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1",
-        "e984c84d-8a70-4c51-ba1e-d7554f55c406"
+        "b2ce3378-6ae0-495f-b059-cba8ddce4104",
+        "e984c84d-8a70-4c51-ba1e-d7554f55c406",
+        "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1"
       ],
       "settings": {
         "product": "bladder-support-starter-kit",
