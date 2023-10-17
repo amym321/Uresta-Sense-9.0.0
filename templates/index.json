@@ -113,6 +113,21 @@
           "settings": {
             "show_dynamic_checkout": false
           }
+        },
+        "e984c84d-8a70-4c51-ba1e-d7554f55c406": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "image_1": "shopify:\/\/shop_images\/Uresta-Icons-01.png",
+            "heading_1": "Odor free",
+            "icon_2": "return",
+            "image_2": "shopify:\/\/shop_images\/Uresta-Icons-02.png",
+            "heading_2": "Hygienic",
+            "icon_3": "truck",
+            "image_3": "shopify:\/\/shop_images\/Uresta-Icons-03.png",
+            "heading_3": "Reusable"
+          }
         }
       },
       "block_order": [
@@ -120,7 +135,8 @@
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-title-1",
         "b2ce3378-6ae0-495f-b059-cba8ddce4104",
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-price-1",
-        "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1"
+        "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1",
+        "e984c84d-8a70-4c51-ba1e-d7554f55c406"
       ],
       "settings": {
         "product": "bladder-support-starter-kit",
