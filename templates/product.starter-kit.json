@@ -60,6 +60,49 @@
           "settings": {
           }
         },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "985bbbf4-c2a1-4705-b529-af8e268cbe88": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What’s Included",
+            "icon": "check_mark",
+            "content": "<ul><li>Includes 3 of our most common sizes (sizes 3, 4, and 5), which works for 90% of women. Two additional sizes available free of charge if needed.<\/li><li>Travel pouch<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "00528fd4-2115-48a8-b5ee-d9f0489004db": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How do I find my size?",
+            "icon": "check_mark",
+            "content": "<p>The female pelvic floor is complex, but the process of finding the right size Uresta is simple. Start with the middle size 4 included in the Uresta Starter Kit and follow the steps below:<\/p><p><strong>You have found your perfect size if:<\/strong><\/p><ul><li>Your bladder leakage has stopped<\/li><li>You are able to empty your bladder without difficulty<\/li><li>Uresta fits comfortably and is barely noticeable<\/li><\/ul><p><\/p><p><strong>Try a smaller size if:<\/strong><\/p><ul><li>You are unable to empty your bladder<\/li><li>It is uncomfortable<\/li><li>Try a larger size if:<\/li><li>Your bladder leaking has not stopped<\/li><li>Uresta falls down to the opening of your vagina or falls out altogether<\/li><\/ul><p>If the sizes in the starter kit do not work for your, we have two additional sizes available, free of charge. Click <a href=\"https:\/\/uresta.com\/help\/\" target=\"_blank\">here<\/a> to request one of our additional sizes.<\/p>",
+            "page": ""
+          }
+        },
+        "8d426e45-7ffc-42b0-853a-c29f12029b19": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What if it doesn’t work",
+            "icon": "check_mark",
+            "content": "<p>If you are experiencing any challenges with Uresta, we recommend reaching out to our <a href=\"https:\/\/uresta.com\/help\/\" target=\"_blank\">customer support team<\/a>. If you are still not satisfied with Uresta, we will refund you the cost within 30 days of delivery.<\/p>",
+            "page": ""
+          }
+        },
+        "3684b195-f2aa-46f4-839d-44fe968100b1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How long does it last?",
+            "icon": "check_mark",
+            "content": "<p>We recommend replacing Uresta annually to ensure proper fit, safety, and comfort.<\/p>",
+            "page": ""
+          }
+        },
         "500a2563-bfde-46b5-a6ea-900c06d76cfc": {
           "type": "icon-with-text",
           "settings": {
@@ -74,53 +117,6 @@
             "image_3": "shopify:\/\/shop_images\/Uresta-Icons-03.png",
             "heading_3": "Reusable"
           }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        },
-        "985bbbf4-c2a1-4705-b529-af8e268cbe88": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "What’s Included",
-            "icon": "check_mark",
-            "content": "<ul><li>Includes 3 of our most common sizes (sizes 3, 4, and 5), which works for 90% of women. Two additional sizes available free of charge if needed.<\/li><li>Travel pouch<\/li><\/ul>",
-            "page": ""
-          }
-        },
-        "00528fd4-2115-48a8-b5ee-d9f0489004db": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "How do I find my size?",
-            "icon": "check_mark",
-            "content": "<p>The female pelvic floor is complex, but the process of finding the right size Uresta is simple. Start with the middle size 4 included in the Uresta Starter Kit and follow the steps below:<\/p><p><strong>You have found your perfect size if:<\/strong><\/p><ul><li>Your bladder leakage has stopped<\/li><li>You are able to empty your bladder without difficulty<\/li><li>Uresta fits comfortably and is barely noticeable<\/li><\/ul><p><\/p><p><strong>Try a smaller size if:<\/strong><\/p><ul><li>You are unable to empty your bladder<\/li><li>It is uncomfortable<\/li><li>Try a larger size if:<\/li><li>Your bladder leaking has not stopped<\/li><li>Uresta falls down to the opening of your vagina or falls out altogether<\/li><\/ul><p>If the sizes in the starter kit do not work for your, we have two additional sizes available, free of charge. Click <a href=\"https:\/\/uresta.com\/help\/\" target=\"_blank\">here<\/a> to request one of our additional sizes.<\/p>",
-            "page": ""
-          }
-        },
-        "8d426e45-7ffc-42b0-853a-c29f12029b19": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "What if it doesn’t work",
-            "icon": "check_mark",
-            "content": "<p>If you are experiencing any challenges with Uresta, we recommend reaching out to our <a href=\"https:\/\/uresta.com\/help\/\" target=\"_blank\">customer support team<\/a>. If you are still not satisfied with Uresta, we will refund you the cost within 30 days of delivery.<\/p>",
-            "page": ""
-          }
-        },
-        "3684b195-f2aa-46f4-839d-44fe968100b1": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "How long does it last?",
-            "icon": "check_mark",
-            "content": "<p>We recommend replacing Uresta annually to ensure proper fit, safety, and comfort.<\/p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -132,12 +128,12 @@
         "254d3c9b-e2d4-4569-8b3d-c2804494a955",
         "2c899ee5-bd88-4d8a-9ba6-6e76715ee32b",
         "description",
-        "500a2563-bfde-46b5-a6ea-900c06d76cfc",
         "buy_buttons",
         "985bbbf4-c2a1-4705-b529-af8e268cbe88",
         "00528fd4-2115-48a8-b5ee-d9f0489004db",
         "8d426e45-7ffc-42b0-853a-c29f12029b19",
-        "3684b195-f2aa-46f4-839d-44fe968100b1"
+        "3684b195-f2aa-46f4-839d-44fe968100b1",
+        "500a2563-bfde-46b5-a6ea-900c06d76cfc"
       ],
       "settings": {
         "enable_sticky_info": true,
