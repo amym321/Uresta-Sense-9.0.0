@@ -433,7 +433,7 @@
         ".image-with-text__media-item:after {box-shadow: none;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Uresta-comparison-chart-desktop-2_c7c5a517-215e-44a3-8e16-94c45ac14da1.jpg",
+        "image": "shopify:\/\/shop_images\/Uresta-comparison-chart-desktop-2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
