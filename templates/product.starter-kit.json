@@ -433,7 +433,7 @@
         ".image-with-text__media-item:after {box-shadow: none;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/benefits-uresta.jpg",
+        "image": "shopify:\/\/shop_images\/Uresta-comparison-chart-desktop-2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
