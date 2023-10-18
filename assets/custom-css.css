@@ -38,6 +38,9 @@
 .country-link:hover {
   color: #fd856d;
 }
+.country-link-two {
+  color:#54CDDF;
+}
 @media (max-width: 990px) {
   .announcement-line {
     display: grid !important;
