@@ -8,7 +8,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "30-day refund window for Starter Kit and Free Shipping on $50+",
+            "text": "Try risk free:",
+            "text2": "30-day refund window for Starter Kit and Free Shipping on $50+",
             "text_alignment": "center",
             "color_scheme": "inverse",
             "link": "shopify:\/\/products\/bladder-support-starter-kit"
