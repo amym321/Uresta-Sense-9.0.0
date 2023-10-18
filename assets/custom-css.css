@@ -59,6 +59,10 @@
   }
 }
 
+.announcement-bar .not-bold-text {
+  font-weight:400;
+}
+
 
 /*** social icons ***/
 

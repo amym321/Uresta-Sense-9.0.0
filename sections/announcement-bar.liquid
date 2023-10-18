@@ -10,7 +10,9 @@
               <div class="page-width announcement-container">
                 <div class="announcement-line">
                   <p class="announcement-bar__message {{ block.settings.text_alignment }} h5">
-                    <span>{{ block.settings.text | escape }}</span>
+                    <span>{{ block.settings.text | escape }}
+                      <span class="not-bold-text">{{ block.settings.text2 | escape }}</span>
+                    </span>
                     {%- if block.settings.link != blank -%}
                       {% render 'icon-arrow' %}
                     {%- endif -%}
@@ -42,8 +44,14 @@
         {
           "type": "text",
           "id": "text",
-          "default": "Welcome to our store",
-          "label": "t:sections.announcement-bar.blocks.announcement.settings.text.label"
+          "default": "Try risk free: ",
+          "label": "1st part of line - Bold Text"
+        },
+        {
+          "type": "text",
+          "id": "text2",
+          "default": "30-day refund window for Starter Kit and Free Shipping on $50+",
+          "label": "2nd part of line - Text not bold"
         },
         {
           "type": "select",
