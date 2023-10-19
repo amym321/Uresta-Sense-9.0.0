@@ -21,6 +21,9 @@
         "template--14954976018483__1c71672a-3478-4712-8d7e-04aea7ae3d29-heading-1",
         "template--14954976018483__1c71672a-3478-4712-8d7e-04aea7ae3d29-text-1"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -163,6 +166,9 @@
         "b2ce3378-6ae0-495f-b059-cba8ddce4104",
         "e984c84d-8a70-4c51-ba1e-d7554f55c406",
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1"
+      ],
+      "custom_css": [
+        ".product-info__wrapper .tp-widget-wrapper {text-align: left !important;}"
       ],
       "settings": {
         "product": "bladder-support-starter-kit",
