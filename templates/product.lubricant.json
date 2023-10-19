@@ -22,6 +22,12 @@
           "settings": {
           }
         },
+        "fbe72fd1-adce-452b-a8c0-9050601c0916": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- TrustBox widget - Micro Star -->\n<div class=\"trustpilot-widget\" data-locale=\"en-CA\" data-template-id=\"5419b732fbfb950b10de65e5\" data-businessunit-id=\"632b312facc254ca8727cdcb\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\">\n  <a href=\"https:\/\/ca.trustpilot.com\/review\/uresta.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -72,6 +78,7 @@
       "block_order": [
         "vendor",
         "title",
+        "fbe72fd1-adce-452b-a8c0-9050601c0916",
         "price",
         "variant_picker",
         "quantity_selector",
