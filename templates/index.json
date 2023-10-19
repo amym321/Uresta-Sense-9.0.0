@@ -1,5 +1,35 @@
 {
   "sections": {
+    "1c71672a-3478-4712-8d7e-04aea7ae3d29": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14954976018483__1c71672a-3478-4712-8d7e-04aea7ae3d29-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uresta’s Reusable Bladder Support is a game-changer for women seeking confidence and control.",
+            "heading_size": "h2"
+          }
+        },
+        "template--14954976018483__1c71672a-3478-4712-8d7e-04aea7ae3d29-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our discreet solution provides dependable support for bladder leakage. Our unique design and medical-grade materials comfortably lift and support the urethra to prevent leaks. Begin with our Starter Kit below! We also offer replacement kits so you can continue to feel great all year round.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14954976018483__1c71672a-3478-4712-8d7e-04aea7ae3d29-heading-1",
+        "template--14954976018483__1c71672a-3478-4712-8d7e-04aea7ae3d29-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "disabled": true,
@@ -54,8 +84,9 @@
         "template--14954976018483__e967b74a-26dc-4542-812b-32cdb56a8cdb-heading-1",
         "template--14954976018483__e967b74a-26dc-4542-812b-32cdb56a8cdb-text-1"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Uresta-shop-all-hero-desktop_8e18efb7-63f8-4caf-a883-13d7b0601ad5.jpg",
+        "image": "shopify:\/\/shop_images\/Uresta-shop-all-hero-desktop.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -208,6 +239,7 @@
     }
   },
   "order": [
+    "1c71672a-3478-4712-8d7e-04aea7ae3d29",
     "featured-collection",
     "e967b74a-26dc-4542-812b-32cdb56a8cdb",
     "ea7b59a5-bab5-48e5-ad3c-8292476e72cd",
