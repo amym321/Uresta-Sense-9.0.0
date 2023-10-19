@@ -22,6 +22,12 @@
           "settings": {
           }
         },
+        "42b0a5b8-6b8d-4074-a69c-2fdb012da6fc": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- TrustBox script -->\n<script type=\"text\/javascript\" src=\"\/\/widget.trustpilot.com\/bootstrap\/v5\/tp.widget.bootstrap.min.js\" async><\/script>\n<!-- End TrustBox script -->"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -117,17 +123,12 @@
             "image_3": "shopify:\/\/shop_images\/Uresta-Icons-03.png",
             "heading_3": "Reusable"
           }
-        },
-        "42b0a5b8-6b8d-4074-a69c-2fdb012da6fc": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<!-- TrustBox script -->\n<script type=\"text\/javascript\" src=\"\/\/widget.trustpilot.com\/bootstrap\/v5\/tp.widget.bootstrap.min.js\" async><\/script>\n<!-- End TrustBox script -->"
-          }
         }
       },
       "block_order": [
         "vendor",
         "title",
+        "42b0a5b8-6b8d-4074-a69c-2fdb012da6fc",
         "price",
         "variant_picker",
         "quantity_selector",
@@ -139,8 +140,7 @@
         "00528fd4-2115-48a8-b5ee-d9f0489004db",
         "8d426e45-7ffc-42b0-853a-c29f12029b19",
         "3684b195-f2aa-46f4-839d-44fe968100b1",
-        "500a2563-bfde-46b5-a6ea-900c06d76cfc",
-        "42b0a5b8-6b8d-4074-a69c-2fdb012da6fc"
+        "500a2563-bfde-46b5-a6ea-900c06d76cfc"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -534,6 +534,15 @@
         "padding_top": 0,
         "padding_bottom": 52
       }
+    },
+    "160d83d8-ad95-484f-a4ef-825e5a2675c2": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- TrustBox script -->\n<script type=\"text\/javascript\" src=\"\/\/widget.trustpilot.com\/bootstrap\/v5\/tp.widget.bootstrap.min.js\" async><\/script>\n<!-- End TrustBox script -->",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -547,6 +556,7 @@
     "09e0178e-5e48-4bcb-9507-d4a24b837ea9",
     "118e5efe-a075-4dba-87a3-ecac47c29b19",
     "d83e3087-973c-4943-8bf4-80f3fcb251a9",
-    "c93a0762-c995-4da8-bfa7-ea9ac8968b51"
+    "c93a0762-c995-4da8-bfa7-ea9ac8968b51",
+    "160d83d8-ad95-484f-a4ef-825e5a2675c2"
   ]
 }
