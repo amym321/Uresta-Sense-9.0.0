@@ -69,10 +69,25 @@
 
 /*** social icons ***/
 
-.footer__list-social li .list-social__link{
+.footer__list-social li .list-social__link {
   max-width: 40px;
   max-height: 40px;
 }
+#menu-drawer .tiktok-icon .list-social__link {
+  margin: 8px;
+  background-color: #54cddf;
+  border-radius: 100px;
+  max-width: 40px;
+  max-height: 40px;
+}
+#menu-drawer .tiktok-icon .list-social__link path {
+  fill: #fff;
+}
+#menu-drawer .tiktok-icon {
+  align-items: center;
+  display: flex;
+}
+
 
 /*** footer ***/
 
