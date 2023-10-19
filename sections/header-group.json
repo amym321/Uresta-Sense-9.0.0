@@ -28,8 +28,7 @@
         "@media (min-width: 990px) {.header--middle-left {grid-template-columns: auto 1fr auto; } .header__inline-menu {display: flex; justify-content: end; }}",
         "sticky-header {border-bottom: #888; box-shadow: 0 2px 4px #888888;}",
         ".global-settings-popup,.header__submenu.global-settings-popup {border-radius: unset; border-color: #fff;}",
-        ".header__submenu li:hover {background-color: #ffeae3;}",
-        ".section-header {margin-bottom: 0;}"
+        ".header__submenu li:hover {background-color: #ffeae3;}"
       ],
       "settings": {
         "logo_position": "middle-left",
