@@ -185,35 +185,6 @@
         "padding_bottom": 36
       }
     },
-    "0c97ff47-9b36-4a09-96e5-32e719f20721": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14930299486259__0c97ff47-9b36-4a09-96e5-32e719f20721-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Shop All",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--14930299486259__0c97ff47-9b36-4a09-96e5-32e719f20721-heading-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Uresta-shop-all-hero-desktop_8e18efb7-63f8-4caf-a883-13d7b0601ad5.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "top-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "9620c66b-236e-4bce-878f-5b876d78f33c": {
       "type": "featured-collection",
       "settings": {
@@ -237,7 +208,7 @@
         "enable_quick_add": true,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 20,
         "padding_bottom": 36
       }
     },
@@ -256,7 +227,6 @@
     "featured-collection",
     "e967b74a-26dc-4542-812b-32cdb56a8cdb",
     "ea7b59a5-bab5-48e5-ad3c-8292476e72cd",
-    "0c97ff47-9b36-4a09-96e5-32e719f20721",
     "9620c66b-236e-4bce-878f-5b876d78f33c",
     "603c6167-b206-442b-8db1-87fdf1ec9493"
   ]
