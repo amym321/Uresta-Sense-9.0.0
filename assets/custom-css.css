@@ -67,6 +67,24 @@
 }
 
 
+/*** Header ***/
+
+.section-header {
+  margin-bottom: 0 !important;
+}
+
+
+/* margin under header on pdp */
+.lower-product {
+  margin-top:24px !important;
+}
+@media (max-width:768px) {
+  .lower-product {
+    margin-top:18px !important;
+  }
+}
+
+
 /*** social icons ***/
 
 .footer__list-social li .list-social__link {
@@ -86,6 +104,15 @@
 #menu-drawer .tiktok-icon {
   align-items: center;
   display: flex;
+}
+
+
+/*** Trust Pilot stars on pdp ***/
+
+/* .product__info-wrapper  */
+#tp-widget-wrapper,
+.trustpilot-widget .tp-widget-wrapper {
+  text-align: left !important;
 }
 
 
