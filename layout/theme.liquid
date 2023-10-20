@@ -348,5 +348,21 @@ setTimeout(updatePrice, 50);
 window.addEventListener('load', replaceHyperlinks);
 
 </script>
+
+{% comment %} add styling to TrustPilot Stars widget -am {% endcomment %}
+<script>
+  (function() {
+    setTimeout(() => {
+      var trustpilot_Iframe = document.getElementsByTagName("iframe")[0];
+
+      if (trustpilot_Iframe) {
+        trustpilot_Iframe.style.width = "270px";
+        trustpilot_Iframe.style.transform = "translateX(-15px)";
+      }
+
+    }, "2300")
+  })();
+</script>
+
   </body>
 </html>
