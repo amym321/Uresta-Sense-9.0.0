@@ -140,6 +140,9 @@
         "3684b195-f2aa-46f4-839d-44fe968100b1",
         "500a2563-bfde-46b5-a6ea-900c06d76cfc"
       ],
+      "custom_css": [
+        ".product {margin-top: 24px; }"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_size": "medium",
