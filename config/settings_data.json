@@ -130,8 +130,8 @@
     "show_cart_note": false,
     "cart_drawer_collection": "frontpage",
     "checkout_logo_image": "shopify:\/\/shop_images\/Website-Landing-Pages_Logo_829bb3ef-daea-4667-84ff-dc2d22341e0e.png",
-    "checkout_accent_color": "#55cde0",
-    "checkout_button_color": "#bbffe5",
+    "checkout_accent_color": "#bbffe5",
+    "checkout_button_color": "#55cde0",
     "checkout_error_color": "#fd6848",
     "sections": {
       "main-password-header": {
