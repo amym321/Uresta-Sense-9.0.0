@@ -87,7 +87,7 @@
           "settings": {
             "heading": "How do I find my size?",
             "icon": "check_mark",
-            "content": "<p>The female pelvic floor is complex, but the process of finding the right size Uresta is simple. Start with the middle size 4 included in the Uresta Starter Kit and follow the steps below:<\/p><p><strong>You have found your perfect size if:<\/strong><\/p><ul><li>Your bladder leakage has stopped<\/li><li>You are able to empty your bladder without difficulty<\/li><li>Uresta fits comfortably and is barely noticeable<\/li><\/ul><p><\/p><p><strong>Try a smaller size if:<\/strong><\/p><ul><li>You are unable to empty your bladder<\/li><li>It is uncomfortable<\/li><li>Try a larger size if:<\/li><li>Your bladder leaking has not stopped<\/li><li>Uresta falls down to the opening of your vagina or falls out altogether<\/li><\/ul><p>If the sizes in the starter kit do not work for your, we have two additional sizes available, free of charge. Click <a href=\"https:\/\/uresta.com\/help\/\" target=\"_blank\">here<\/a> to request one of our additional sizes.<\/p>",
+            "content": "<p>The female pelvic floor is complex, but the process of finding the right size Uresta is simple. Start with the middle size 4 included in the Uresta Starter Kit and follow the steps below:<\/p><p><strong>You have found your perfect size if:<\/strong><\/p><ul><li>Your bladder leakage has stopped<\/li><li>You are able to empty your bladder without difficulty<\/li><li>Uresta fits comfortably and is barely noticeable<\/li><\/ul><p><\/p><p><strong>Try a smaller size if:<\/strong><\/p><ul><li>You are unable to empty your bladder<\/li><li>It is uncomfortable<\/li><\/ul><p><strong>Try a larger size if:<\/strong><\/p><ul><li>Your bladder leaking has not stopped<\/li><li>Uresta falls down to the opening of your vagina or falls out altogether<\/li><\/ul><p>If the sizes in the starter kit do not work for your, we have two additional sizes available, free of charge. Click <a href=\"https:\/\/uresta.com\/help\/\" target=\"_blank\">here<\/a> to request one of our additional sizes.<\/p>",
             "page": ""
           }
         },
@@ -368,7 +368,7 @@
         "template--14930299715635__972f6ace-4822-4911-ba85-f5e90011c9eb-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Every woman is unique and your pelvic floor is no different. That’s why Uresta comes in different sizes for a perfect fit (and no, it has nothing to do with height or weight). Unlike traditional pads, absorbent underwear, and other medieval devices, women say it’s surprisingly comfortable!<\/p>",
+            "text": "<p>Every woman is unique and your pelvic floor is no different. That’s why Uresta comes in different sizes for a perfect fit (and no, it has nothing to do with height or weight). Unlike traditional pads, absorbent underwear, and other medical devices, women say it’s surprisingly comfortable!<\/p>",
             "text_style": "body"
           }
         }
