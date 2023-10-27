@@ -141,7 +141,7 @@
         "500a2563-bfde-46b5-a6ea-900c06d76cfc"
       ],
       "custom_css": [
-        ".product {margin-top: 24px; }"
+        ".product {margin-top: 24px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -156,6 +156,29 @@
         "enable_video_looping": false,
         "padding_top": 0,
         "padding_bottom": 60
+      }
+    },
+    "a4b5a33d-777e-4f15-8613-1b57fdcde724": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14954975821875__a4b5a33d-777e-4f15-8613-1b57fdcde724-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Think of us as a brace for your bladder",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--14954975821875__a4b5a33d-777e-4f15-8613-1b57fdcde724-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 28
       }
     },
     "69abbefe-03ae-4038-bd90-e8961b097046": {
@@ -209,7 +232,7 @@
         "d89724f3-a566-4151-8a2d-b9b6204d1ec7"
       ],
       "settings": {
-        "title": "Think of us as a brace for your bladder",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -221,8 +244,8 @@
         "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 40
       }
     },
     "bd0381cc-c5e7-4738-a72b-6962892f82a1": {
@@ -467,6 +490,7 @@
   "order": [
     "f8916bda-fa5a-4051-9025-709a6c263467",
     "main",
+    "a4b5a33d-777e-4f15-8613-1b57fdcde724",
     "69abbefe-03ae-4038-bd90-e8961b097046",
     "bd0381cc-c5e7-4738-a72b-6962892f82a1",
     "related-products",
