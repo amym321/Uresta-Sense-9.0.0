@@ -525,7 +525,7 @@
     "d83e3087-973c-4943-8bf4-80f3fcb251a9": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><h2>Hundreds of verified reviews<\/h2><\/center><!-- TrustBox widget - Grid -->\n<div class=\"trustpilot-widget\" data-locale=\"en-CA\" data-template-id=\"539adbd6dec7e10e686debee\" data-businessunit-id=\"632b312facc254ca8727cdcb\" data-style-height=\"500px\" data-style-width=\"100%\" data-theme=\"light\" data-stars=\"4,5\">\n  <a href=\"https:\/\/ca.trustpilot.com\/review\/uresta.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->",
+        "custom_liquid": "<center><h2>Hundreds of verified reviews<\/h2><\/center><!-- TrustBox widget - Grid -->\n<div class=\"trustpilot-widget\" data-locale=\"en-CA\" data-template-id=\"539adbd6dec7e10e686debee\" data-businessunit-id=\"632b312facc254ca8727cdcb\" data-style-height=\"900px\" data-style-width=\"100%\" data-theme=\"light\" data-stars=\"4,5\">\n  <a href=\"https:\/\/ca.trustpilot.com\/review\/uresta.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
