@@ -188,7 +188,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/diagram-1_2.jpg",
             "title": "",
-            "text": "<p>Most of us start life with strong muscles that keep the urethra supported and closed so urine doesn't leak out during everyday activities.<\/p>",
+            "text": "<p>Most of us start life with strong muscles that keep the urethra supported and closed so urine doesn't leak out during <\/p><p>everyday activities.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -198,7 +198,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/diagram-1_3.jpg",
             "title": "",
-            "text": "<p>Bladder leaks (aka stress urinary incontinence \/ SUI) happen when the muscles that support the urethra lose strength over time or become damaged.<\/p>",
+            "text": "<p>Bladder leaks (aka stress urinary incontinence \/ SUI) happen when the muscles that support the urethra lose strength over time or <\/p><p>become damaged.<\/p>",
             "link_label": "",
             "link": ""
           }
