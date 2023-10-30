@@ -85,6 +85,17 @@
 }
 
 
+/*** PDP mobile caret icons on media slider ***/
+@media (max-width:750px) {
+  .product .product__media-wrapper media-gallery .slider-mobile-gutter .slider-button .icon {
+    height: 1.3rem;
+  }
+  .product .product__media-wrapper media-gallery .slider-mobile-gutter .caption {
+    font-size: 1.6rem;
+  }
+}
+
+
 /*** social icons ***/
 
 .footer__list-social li .list-social__link {
