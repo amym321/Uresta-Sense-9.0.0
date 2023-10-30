@@ -282,7 +282,7 @@
           "settings": {
             "heading": "Does Uresta cause Urinary Tract Infections (UTIs) or Toxic Shock Syndrome (TSS)?",
             "icon": "check_mark",
-            "row_content": "<ul><li>Uresta is licensed by Health Canada and FDA cleared and is clinically proven to be a safe and effective solution for managing bladder leaks. Uresta does not increase the risk of UTIs or other infections.<\/li><li>Uresta is made of a non-absorbent material that doesn’t absorb bacteria, therefore it doesn’t carry the same Toxic Shock Syndrome risk as tampons.<\/li><\/ul>",
+            "row_content": "<ul><li>Uresta is licensed by Health Canada and FDA cleared and is clinically proven to be a safe and effective solution for managing bladder leaks. Uresta does not increase the risk of UTIs or other infections.<\/li><\/ul><p><\/p><ul><li>Uresta is made of a non-absorbent material that doesn’t absorb bacteria, therefore it doesn’t carry the same Toxic Shock Syndrome risk as tampons.<\/li><\/ul>",
             "page": ""
           }
         },
@@ -300,7 +300,7 @@
           "settings": {
             "heading": "Is Uresta covered by insurance?",
             "icon": "check_mark",
-            "row_content": "<p><strong>Yes, Uresta is covered by most major insurance companies in Canada.<\/strong><\/p><p>Coverage is plan specific, so check with your provider to confirm. Uresta is often included in the medical or incontinence supplies categories and is considered a “bell-shaped” pessary. Uresta is also eligible for Health Spending Accounts (HSAs) and Flexible Spending Accounts (FSAs)<\/p>",
+            "row_content": "<p><strong>Yes, Uresta is covered by most major insurance companies in Canada.<\/strong><\/p><p>Coverage is plan specific, so check with your provider to confirm. Uresta is often included in the medical or incontinence supplies categories and is considered a “bell-shaped” pessary. Uresta is also eligible for Health Spending Accounts (HSAs) and Flexible Spending Accounts (FSAs).<\/p>",
             "page": ""
           }
         },
@@ -405,7 +405,7 @@
         "template--14945099743283__e978545a-12d1-4de4-ae12-e7a83b197a03-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Uresta is the only solution that is readily available and doesn't require a subscription to immediately improve quality of life without invasive surgery.<\/p>"
+            "text": "<p>Uresta is the only solution that is readily available, doesn't require a prescription, or an invasive procedure to improve quality of life.<\/p>"
           }
         }
       },

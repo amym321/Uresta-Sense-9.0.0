@@ -94,7 +94,7 @@
           "settings": {
             "heading": "What if my size has changed?",
             "icon": "check_mark",
-            "content": "<p>It is common for the size of Uresta you need to change during your lifetime. This can happen for a variety of reasons, such as menopause, age, hormonal fluctuations, pregnancy, changes in weight, and changes to pelvic floor strength. The following are indicators of when a larger or smaller size may be required.<\/p><p><strong>Try a smaller size if:<\/strong><\/p><ul><li>You are unable to empty your bladder<\/li><li>It is uncomfortable<\/li><\/ul><p><strong>Try a larger size if:<\/strong><\/p><ul><li>Your bladder leaks aren’t stopping<\/li><li>Uresta falls down to the opening of your vagina or falls out altogether, or shifts out of place<\/li><\/ul><p><strong>As a reminder, you’ve found the right size when:<\/strong><\/p><ul><li>Your bladder leakage has stopped<\/li><li>You are able to empty your bladder without difficulty<\/li><li>Uresta fits comfortably and is barely noticeable<\/li><\/ul>",
+            "content": "<p>It is common for the size of Uresta you need to change during your lifetime. This can happen for a variety of reasons, such as menopause, age, hormonal fluctuations, pregnancy, changes in weight, and changes to pelvic floor strength. The following are indicators of when a larger or smaller size may be required.<\/p><p><strong>Try a smaller size if:<\/strong><\/p><ul><li>You are unable to empty your bladder<\/li><li>It is uncomfortable<\/li><\/ul><p><strong>Try a larger size if:<\/strong><\/p><ul><li>Your bladder leaks aren’t stopping<\/li><li>Uresta falls down to the opening of your vagina or falls out altogether, or shifts out of place<\/li><\/ul><p><strong>As a reminder, you’ve found the right size when:<\/strong><\/p><ul><li>Your bladder leakage has stopped.<\/li><li>You are able to empty your bladder without difficulty.<\/li><li>Uresta fits comfortably and is barely noticeable.<\/li><\/ul>",
             "page": ""
           }
         },
@@ -274,7 +274,7 @@
           "settings": {
             "heading": "Is Uresta covered by insurance?",
             "icon": "check_mark",
-            "row_content": "<p><strong>Yes, Uresta is covered by most major insurance companies in Canada.<\/strong><\/p><p>Coverage is plan specific, so check with your provider to confirm. Uresta is often included in the medical or incontinence supplies categories and is considered a “bell-shaped” pessary. Uresta is also eligible for Health Spending Accounts (HSAs) and Flexible Spending Accounts (FSAs)<\/p>",
+            "row_content": "<p><strong>Yes, Uresta is covered by most major insurance companies in Canada.<\/strong><\/p><p>Coverage is plan specific, so check with your provider to confirm. Uresta is often included in the medical or incontinence supplies categories and is considered a “bell-shaped” pessary. Uresta is also eligible for Health Spending Accounts (HSAs) and Flexible Spending Accounts (FSAs).<\/p>",
             "page": ""
           }
         },
@@ -292,7 +292,7 @@
           "settings": {
             "heading": "Will or can the size of Uresta that I need change over time?",
             "icon": "check_mark",
-            "row_content": "<p>It is common for the size of Uresta you need to change during your lifetime. This can happen for a variety of reasons, such as menopause, age, hormonal fluctuations, pregnancy, changes in weight, and changes to pelvic floor strength. The following are indicators of when a larger or smaller size may be required.<\/p><p>Try a smaller size if:<\/p><ul><li>You are unable to empty your bladder<\/li><li>It is uncomfortable<\/li><\/ul><p>Try a larger size if:<\/p><ul><li>Your bladder leaks aren’t stopping<\/li><li>Uresta falls down to the opening of your vagina or falls out altogether, or shifts out of place<\/li><\/ul><p><\/p><p>As a reminder, you’ve found the right size when:<\/p><ul><li>Your bladder leakage has stopped<\/li><li>You are able to empty your bladder without difficulty<\/li><li>Uresta fits comfortably and is barely noticeable<\/li><\/ul>",
+            "row_content": "<p>It is common for the size of Uresta you need to change during your lifetime. This can happen for a variety of reasons, such as menopause, age, hormonal fluctuations, pregnancy, changes in weight, and changes to pelvic floor strength. The following are indicators of when a larger or smaller size may be required.<\/p><p>Try a smaller size if:<\/p><ul><li>You are unable to empty your bladder<\/li><li>It is uncomfortable<\/li><\/ul><p>Try a larger size if:<\/p><ul><li>Your bladder leaks aren’t stopping<\/li><li>Uresta falls down to the opening of your vagina or falls out altogether, or shifts out of place<\/li><\/ul><p><\/p><p>As a reminder, you’ve found the right size when:<\/p><ul><li>Your bladder leakage has stopped.<\/li><li>You are able to empty your bladder without difficulty.<\/li><li>Uresta fits comfortably and is barely noticeable.<\/li><\/ul>",
             "page": ""
           }
         }
@@ -386,7 +386,7 @@
         "template--14945100005427__465a432c-7d66-45d0-b7a0-9fe0d639b98a-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Uresta is the only solution that is readily available and doesn't require a subscription to immediately improve quality of life without invasive surgery.<\/p>"
+            "text": "<p>Uresta is the only solution that is readily available, doesn't require a prescription, or an invasive procedure to improve quality of life.<\/p>"
           }
         }
       },
