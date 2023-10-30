@@ -76,7 +76,7 @@
           "settings": {
             "heading": "What’s Included?",
             "icon": "check_mark",
-            "content": "<ul><li>1 single size replacement<\/li><li>Travel pouch<\/li><\/ul>",
+            "content": "<ul><li>1 single size replacement.<\/li><li>Travel pouch.<\/li><\/ul>",
             "page": ""
           }
         },
@@ -164,7 +164,7 @@
         "template--14954975821875__a4b5a33d-777e-4f15-8613-1b57fdcde724-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Think of us as a brace for your bladder",
+            "heading": "Think of us as a brace for your bladder.",
             "heading_size": "h2"
           }
         }
@@ -306,7 +306,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Frequently Asked Questions",
+        "heading": "Frequently asked questions.",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
@@ -322,7 +322,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "heading": "Recommended add-ons",
+        "heading": "Recommended add-ons.",
         "heading_size": "h2",
         "products_to_show": 3,
         "columns_desktop": 3,
@@ -379,7 +379,7 @@
         "template--14945100005427__465a432c-7d66-45d0-b7a0-9fe0d639b98a-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Your secret weapon against leaks",
+            "heading": "Your secret weapon against leaks.",
             "heading_size": "h2"
           }
         },

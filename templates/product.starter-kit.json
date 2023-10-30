@@ -78,7 +78,7 @@
           "settings": {
             "heading": "What’s Included?",
             "icon": "check_mark",
-            "content": "<ul><li>Includes 3 of our most common sizes (sizes 3, 4, and 5), which works for 90% of women. Two additional sizes available free of charge if needed within 30 days.<\/li><li>Travel pouch<\/li><\/ul>",
+            "content": "<ul><li>Includes 3 of our most common sizes (sizes 3, 4, and 5), which works for 90% of women. Two additional sizes available free of charge if needed within 30 days.<\/li><li>Travel pouch.<\/li><\/ul>",
             "page": ""
           }
         },
@@ -87,7 +87,7 @@
           "settings": {
             "heading": "How do I find my size?",
             "icon": "check_mark",
-            "content": "<p>The female pelvic floor is complex, but the process of finding the right size Uresta is simple. Start with the middle size 4 included in the Uresta Starter Kit and follow the steps below:<\/p><p><strong>You have found your perfect size if:<\/strong><\/p><ul><li>Your bladder leakage has stopped<\/li><li>You are able to empty your bladder without difficulty<\/li><li>Uresta fits comfortably and is barely noticeable<\/li><\/ul><p><\/p><p><strong>Try a smaller size if:<\/strong><\/p><ul><li>You are unable to empty your bladder<\/li><li>It is uncomfortable<\/li><\/ul><p><strong>Try a larger size if:<\/strong><\/p><ul><li>Your bladder leaking has not stopped<\/li><li>Uresta falls down to the opening of your vagina or falls out altogether<\/li><\/ul><p>If the sizes in the starter kit do not work for your, we have two additional sizes available, free of charge within 30 days.<\/p>",
+            "content": "<p>The female pelvic floor is complex, but the process of finding the right size Uresta is simple. Start with the middle size 4 included in the Uresta Starter Kit and follow the steps below:<\/p><p><strong>You have found your perfect size if:<\/strong><\/p><ul><li>Your bladder leakage has stopped<\/li><li>You are able to empty your bladder without difficulty<\/li><li>Uresta fits comfortably and is barely noticeable<\/li><\/ul><p><\/p><p><strong>Try a smaller size if:<\/strong><\/p><ul><li>You are unable to empty your bladder<\/li><li>It is uncomfortable<\/li><\/ul><p><strong>Try a larger size if:<\/strong><\/p><ul><li>Your bladder leaking has not stopped.<\/li><li>Uresta falls down to the opening of your vagina or falls out altogether.<\/li><\/ul><p>If the sizes in the starter kit do not work for your, we have two additional sizes available, free of charge within 30 days.<\/p>",
             "page": ""
           }
         },
@@ -163,7 +163,7 @@
         "template--14954976215091__1b9dd641-2b30-4e74-b1b8-87ba849b9499-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Think of us as a brace for your bladder",
+            "heading": "Think of us as a brace for your bladder.",
             "heading_size": "h2"
           }
         }
@@ -325,7 +325,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Frequently Asked Questions",
+        "heading": "Frequently asked questions.",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
@@ -341,7 +341,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "heading": "Recommended add-ons",
+        "heading": "Recommended add-ons.",
         "heading_size": "h2",
         "products_to_show": 3,
         "columns_desktop": 3,
@@ -398,7 +398,7 @@
         "template--14945099743283__e978545a-12d1-4de4-ae12-e7a83b197a03-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Your secret weapon against leaks",
+            "heading": "Your secret weapon against leaks.",
             "heading_size": "h2"
           }
         },

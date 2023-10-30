@@ -5,6 +5,7 @@
       "blocks": {
         "template--14954976018483__1c71672a-3478-4712-8d7e-04aea7ae3d29-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h2"
