@@ -175,6 +175,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "Products often purchased together.",
         "heading_size": "h2",
@@ -190,10 +191,60 @@
         "padding_bottom": 68
       }
     },
+    "432e41ca-cd90-4f72-80a8-cfd63ae5a88e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14954976116787__432e41ca-cd90-4f72-80a8-cfd63ae5a88e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop all",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--14954976116787__432e41ca-cd90-4f72-80a8-cfd63ae5a88e-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "3b8413d2-de61-4eb4-912b-9262686cfe90": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "lubricant",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
     "1a152413-b38f-4978-b74f-63ce4a9e57bc": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><h2>Hundreds of verified reviews<\/h2><!-- TrustBox widget - Grid -->\n<div class=\"trustpilot-widget\" data-locale=\"en-CA\" data-template-id=\"539adbd6dec7e10e686debee\" data-businessunit-id=\"632b312facc254ca8727cdcb\" data-style-height=\"900px\" data-style-width=\"90%\" data-theme=\"light\" data-stars=\"4,5\">\n  <a href=\"https:\/\/ca.trustpilot.com\/review\/uresta.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget --><\/center>",
+        "custom_liquid": "<center><h2>Hundreds of verified reviews.<\/h2><!-- TrustBox widget - Grid -->\n<div class=\"trustpilot-widget\" data-locale=\"en-CA\" data-template-id=\"539adbd6dec7e10e686debee\" data-businessunit-id=\"632b312facc254ca8727cdcb\" data-style-height=\"900px\" data-style-width=\"90%\" data-theme=\"light\" data-stars=\"4,5\">\n  <a href=\"https:\/\/ca.trustpilot.com\/review\/uresta.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget --><\/center>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -205,7 +256,7 @@
         "template--14942210818099__5bd8b922-a8fd-4c97-acc8-83b9d437430e-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Now",
+            "button_label": "SHOP NOW",
             "button_link": "#shop-jump",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -232,6 +283,8 @@
     "main",
     "bd0381cc-c5e7-4738-a72b-6962892f82a1",
     "related-products",
+    "432e41ca-cd90-4f72-80a8-cfd63ae5a88e",
+    "3b8413d2-de61-4eb4-912b-9262686cfe90",
     "1a152413-b38f-4978-b74f-63ce4a9e57bc",
     "5bd8b922-a8fd-4c97-acc8-83b9d437430e"
   ]
