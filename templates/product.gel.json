@@ -165,6 +165,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "Recommended add-ons.",
         "heading_size": "h2",
@@ -180,10 +181,37 @@
         "padding_bottom": 68
       }
     },
+    "65761ef3-8b34-482d-aea1-9030557fe1d9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "df8cf72a-c856-4c20-afd0-7823e45977cf": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><h2>Hundreds of verified reviews<\/h2><!-- TrustBox widget - Grid -->\n<div class=\"trustpilot-widget\" data-locale=\"en-CA\" data-template-id=\"539adbd6dec7e10e686debee\" data-businessunit-id=\"632b312facc254ca8727cdcb\" data-style-height=\"900px\" data-style-width=\"90%\" data-theme=\"light\" data-stars=\"4,5\">\n  <a href=\"https:\/\/ca.trustpilot.com\/review\/uresta.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget --><\/center>",
+        "custom_liquid": "<center><h2>Hundreds of verified reviews.<\/h2><!-- TrustBox widget - Grid -->\n<div class=\"trustpilot-widget\" data-locale=\"en-CA\" data-template-id=\"539adbd6dec7e10e686debee\" data-businessunit-id=\"632b312facc254ca8727cdcb\" data-style-height=\"900px\" data-style-width=\"90%\" data-theme=\"light\" data-stars=\"4,5\">\n  <a href=\"https:\/\/ca.trustpilot.com\/review\/uresta.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget --><\/center>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -222,6 +250,7 @@
     "main",
     "bd0381cc-c5e7-4738-a72b-6962892f82a1",
     "related-products",
+    "65761ef3-8b34-482d-aea1-9030557fe1d9",
     "df8cf72a-c856-4c20-afd0-7823e45977cf",
     "c5617d7e-b5e2-4451-a516-0cb2dbcbf8a8"
   ]

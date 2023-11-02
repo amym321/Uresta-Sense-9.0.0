@@ -340,6 +340,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "Recommended add-ons.",
         "heading_size": "h2",
@@ -353,6 +354,56 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 68
+      }
+    },
+    "ba438e80-7fae-4d31-8cc1-db90e0397115": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14954976215091__ba438e80-7fae-4d31-8cc1-db90e0397115-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop all",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--14954976215091__ba438e80-7fae-4d31-8cc1-db90e0397115-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "bdd595a6-4e57-4329-9043-f4915bf0a2cf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shop-all",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "972f6ace-4822-4911-ba85-f5e90011c9eb": {
@@ -525,7 +576,7 @@
     "d83e3087-973c-4943-8bf4-80f3fcb251a9": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><h2>Hundreds of verified reviews<\/h2><!-- TrustBox widget - Grid -->\n<div class=\"trustpilot-widget\" data-locale=\"en-CA\" data-template-id=\"539adbd6dec7e10e686debee\" data-businessunit-id=\"632b312facc254ca8727cdcb\" data-style-height=\"900px\" data-style-width=\"90%\" data-theme=\"light\" data-stars=\"4,5\">\n  <a href=\"https:\/\/ca.trustpilot.com\/review\/uresta.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget --><\/center>",
+        "custom_liquid": "<center><h2>Hundreds of verified reviews.<\/h2><!-- TrustBox widget - Grid -->\n<div class=\"trustpilot-widget\" data-locale=\"en-CA\" data-template-id=\"539adbd6dec7e10e686debee\" data-businessunit-id=\"632b312facc254ca8727cdcb\" data-style-height=\"900px\" data-style-width=\"90%\" data-theme=\"light\" data-stars=\"4,5\">\n  <a href=\"https:\/\/ca.trustpilot.com\/review\/uresta.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget --><\/center>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -566,6 +617,8 @@
     "69abbefe-03ae-4038-bd90-e8961b097046",
     "bd0381cc-c5e7-4738-a72b-6962892f82a1",
     "related-products",
+    "ba438e80-7fae-4d31-8cc1-db90e0397115",
+    "bdd595a6-4e57-4329-9043-f4915bf0a2cf",
     "972f6ace-4822-4911-ba85-f5e90011c9eb",
     "e978545a-12d1-4de4-ae12-e7a83b197a03",
     "09e0178e-5e48-4bcb-9507-d4a24b837ea9",
