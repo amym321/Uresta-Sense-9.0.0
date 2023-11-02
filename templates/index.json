@@ -69,6 +69,28 @@
         "show_text_below": true
       }
     },
+    "d97b55bb-8317-44ba-9df8-407611a45312": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14954976018483__d97b55bb-8317-44ba-9df8-407611a45312-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/>The Uresta Starter Kit is your introduction to a world of tailored bladder support, offering different sizes to help you find the perfect fit for your pelvic floor. And once you've found your ideal size, maintaining it is easy with our Annual Replacements. Discover comfort, confidence, and control like never before.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14954976018483__d97b55bb-8317-44ba-9df8-407611a45312-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 40
+      }
+    },
     "ea7b59a5-bab5-48e5-ad3c-8292476e72cd": {
       "type": "featured-product",
       "blocks": {
@@ -152,28 +174,6 @@
         "padding_bottom": 36
       }
     },
-    "d97b55bb-8317-44ba-9df8-407611a45312": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14954976018483__d97b55bb-8317-44ba-9df8-407611a45312-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The Uresta Starter Kit is your introduction to a world of tailored bladder support, offering different sizes to help you find the perfect fit for your pelvic floor. And once you've found your ideal size, maintaining it is easy with our Annual Replacements. Our chemical-free Water-Based Lubricant aids insertion and removal, and the Natural Cleaning Gel keeps your Uresta fresh. Discover comfort, confidence, and control like never before.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14954976018483__d97b55bb-8317-44ba-9df8-407611a45312-text-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "9620c66b-236e-4bce-878f-5b876d78f33c": {
       "type": "featured-collection",
       "settings": {
@@ -214,8 +214,8 @@
   "order": [
     "featured-collection",
     "e967b74a-26dc-4542-812b-32cdb56a8cdb",
-    "ea7b59a5-bab5-48e5-ad3c-8292476e72cd",
     "d97b55bb-8317-44ba-9df8-407611a45312",
+    "ea7b59a5-bab5-48e5-ad3c-8292476e72cd",
     "9620c66b-236e-4bce-878f-5b876d78f33c",
     "603c6167-b206-442b-8db1-87fdf1ec9493"
   ]
