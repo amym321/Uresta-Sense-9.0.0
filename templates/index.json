@@ -1,39 +1,5 @@
 {
   "sections": {
-    "1c71672a-3478-4712-8d7e-04aea7ae3d29": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14954976018483__1c71672a-3478-4712-8d7e-04aea7ae3d29-heading-1": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "",
-            "heading_size": "h2"
-          }
-        },
-        "template--14954976018483__1c71672a-3478-4712-8d7e-04aea7ae3d29-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>The Uresta Starter Kit is your introduction to a world of tailored bladder support, offering different sizes to help you find the perfect fit for your pelvic floor. And once you've found your ideal size, maintaining it is easy with our Annual Replacements. Our chemical-free Water-Based Lubricant aids insertion and removal, and the Natural Cleaning Gel keeps your Uresta fresh. Discover comfort, confidence, and control like never before.<\/h3>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14954976018483__1c71672a-3478-4712-8d7e-04aea7ae3d29-heading-1",
-        "template--14954976018483__1c71672a-3478-4712-8d7e-04aea7ae3d29-text-1"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "disabled": true,
@@ -174,7 +140,7 @@
       "settings": {
         "product": "bladder-support-starter-kit",
         "color_scheme": "background-1",
-        "secondary_background": true,
+        "secondary_background": false,
         "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -184,6 +150,28 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "d97b55bb-8317-44ba-9df8-407611a45312": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14954976018483__d97b55bb-8317-44ba-9df8-407611a45312-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Uresta Starter Kit is your introduction to a world of tailored bladder support, offering different sizes to help you find the perfect fit for your pelvic floor. And once you've found your ideal size, maintaining it is easy with our Annual Replacements. Our chemical-free Water-Based Lubricant aids insertion and removal, and the Natural Cleaning Gel keeps your Uresta fresh. Discover comfort, confidence, and control like never before.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14954976018483__d97b55bb-8317-44ba-9df8-407611a45312-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "9620c66b-236e-4bce-878f-5b876d78f33c": {
@@ -224,10 +212,10 @@
     }
   },
   "order": [
-    "1c71672a-3478-4712-8d7e-04aea7ae3d29",
     "featured-collection",
     "e967b74a-26dc-4542-812b-32cdb56a8cdb",
     "ea7b59a5-bab5-48e5-ad3c-8292476e72cd",
+    "d97b55bb-8317-44ba-9df8-407611a45312",
     "9620c66b-236e-4bce-878f-5b876d78f33c",
     "603c6167-b206-442b-8db1-87fdf1ec9493"
   ]
