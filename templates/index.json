@@ -120,8 +120,16 @@
         },
         "b2ce3378-6ae0-495f-b059-cba8ddce4104": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<strong>Uresta is the modern-day solution to bladder leakage, providing immediate relief without medical intervention.<\/strong> This starter kit includes 3 of our most common sizes that fit 90% of women. If you need something bigger or smaller, we can send it to you at no extra charge within 30 days.",
+            "text_style": "body"
+          }
+        },
+        "a3cf317a-608a-4723-b505-651f42e5411b": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Uresta is the modern-day solution to bladder leakage, providing immediate relief without medical intervention.<\/strong> This starter kit includes 3 of our most common sizes that fit 90% of women. If the sizes in the starter kit do not work for you, we have two additional sizes available, free of charge within 30 days.",
             "text_style": "body"
           }
         },
@@ -153,6 +161,7 @@
         "39afcf35-9a67-40e3-ad88-f896fcc756f4",
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-price-1",
         "b2ce3378-6ae0-495f-b059-cba8ddce4104",
+        "a3cf317a-608a-4723-b505-651f42e5411b",
         "e984c84d-8a70-4c51-ba1e-d7554f55c406",
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1"
       ],
