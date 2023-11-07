@@ -164,7 +164,7 @@
         "template--14954975821875__a4b5a33d-777e-4f15-8613-1b57fdcde724-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Think of us as a brace for your bladder.",
+            "heading": "<strong>Think of us as a brace for your bladder.<\/strong>",
             "heading_size": "h2"
           }
         }
@@ -188,8 +188,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/diagram-1_2.jpg",
-            "title": "",
-            "text": "<p>Most of us start life with strong muscles that keep the urethra supported and closed so urine doesn't leak out during <\/p><p>everyday activities.<\/p>",
+            "title": "Most of us start life with strong muscles that keep the urethra supported and closed so urine doesn't leak out during everyday activities.",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -198,8 +198,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/diagram-1_3.jpg",
-            "title": "",
-            "text": "<p>Bladder leaks (aka stress urinary incontinence \/ SUI) happen when the muscles that support the urethra lose strength over time or <\/p><p>become damaged.<\/p>",
+            "title": "Bladder leaks (aka stress urinary incontinence \/ SUI) happen when the muscles that support the urethra lose strength over time or become damaged.",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -208,8 +208,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/diagram-1_4.jpg",
-            "title": "",
-            "text": "<p>Uresta goes inside your vagina where it sits under your urethra and supports it through the vaginal wall. Uresta acts as a supportive shelf to prevent urine from leaking out during moments of pressure (aka sneezing <\/p><p>or jumping).<\/p>",
+            "title": "Uresta goes inside your vagina where it sits under your urethra and supports it through the vaginal wall. Uresta acts as a supportive shelf to prevent urine from leaking out during moments of pressure (aka sneezing or jumping).",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -218,8 +218,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/diagram-1_5.jpg",
-            "title": "",
-            "text": "<p>You can still pee normally with Uresta in, the natural pressure of urinating opens your urethra so urine <\/p><p>comes out.<\/p>",
+            "title": "You can still pee normally with Uresta in, the natural pressure of urinating opens your urethra so urine comes out.",
+            "text": "",
             "link_label": "",
             "link": ""
           }
