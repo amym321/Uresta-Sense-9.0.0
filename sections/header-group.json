@@ -8,16 +8,19 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Try risk free:",
-            "text2": "30-day refund window for Starter Kit and Free Shipping on $50+",
+            "text": "📢 Psst...",
+            "text2": "Our Black Friday sale will be our biggest yet! Don't miss out - get your name on our email list!",
             "text_alignment": "center",
             "color_scheme": "inverse",
-            "link": "shopify:\/\/products\/bladder-support-starter-kit"
+            "link": "https:\/\/uresta.com\/mailing-list\/"
           }
         }
       },
       "block_order": [
         "announcement-bar-0"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
       }
