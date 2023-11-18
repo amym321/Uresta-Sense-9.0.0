@@ -371,18 +371,20 @@ window.addEventListener('load', replaceHyperlinks);
 
     <script>
       function updateLinksForMainSite() {
-    if (document.documentElement.lang === 'fr') {
-        document.querySelectorAll('a[href*="uresta.com"]:not([href*="shop.uresta.com"])').forEach(link => {
-            let newUrl = new URL(link.href);
-            if (!newUrl.pathname.startsWith('/fr/')) {
-                newUrl.pathname = '/fr' + newUrl.pathname;
-                link.href = newUrl.toString();
-            }
-        });
+        if (document.documentElement.lang === 'fr') {
+            document.querySelectorAll('a[href*="uresta.com"]:not([href*="shop.uresta.com"])').forEach(link => {
+                let newUrl = new URL(link.href);
+                if (!newUrl.pathname.startsWith('/fr/')) {
+                    newUrl.pathname = '/fr' + newUrl.pathname;
+                    link.href = newUrl.toString();
+                }
+            });
+        }
     }
-}
-
-window.onload = updateLinksForMainSite;
+    
+    window.onload = function() {
+        setTimeout(updateLinksForMainSite, 1000);
+    };
     </script>
 
   </body>
