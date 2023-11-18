@@ -369,5 +369,22 @@ window.addEventListener('load', replaceHyperlinks);
   })();
 </script>
 
+    <script>
+      function updateLinksForMainSite() {
+    if (document.documentElement.lang === 'fr') {
+        document.querySelectorAll('a[href*="uresta.com"]:not([href*="shop.uresta.com"])').forEach(link => {
+            // Construct the new URL
+            let newUrl = new URL(link.href);
+            if (!newUrl.pathname.startsWith('/fr/')) {
+                newUrl.pathname = '/fr' + newUrl.pathname;
+                link.href = newUrl.toString();
+            }
+        });
+    }
+}
+
+updateLinksForMainSite();
+    </script>
+
   </body>
 </html>
