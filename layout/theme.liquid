@@ -373,7 +373,6 @@ window.addEventListener('load', replaceHyperlinks);
       function updateLinksForMainSite() {
     if (document.documentElement.lang === 'fr') {
         document.querySelectorAll('a[href*="uresta.com"]:not([href*="shop.uresta.com"])').forEach(link => {
-            // Construct the new URL
             let newUrl = new URL(link.href);
             if (!newUrl.pathname.startsWith('/fr/')) {
                 newUrl.pathname = '/fr' + newUrl.pathname;
@@ -383,7 +382,7 @@ window.addEventListener('load', replaceHyperlinks);
     }
 }
 
-updateLinksForMainSite();
+window.onload = updateLinksForMainSite;
     </script>
 
   </body>
