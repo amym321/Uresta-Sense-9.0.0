@@ -8,11 +8,11 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "📢 Psst...",
-            "text2": "Our Black Friday sale will be our biggest yet! Don't miss out - get your name on our email list!",
+            "text": "⚡FLASH SALE ALERT⚡",
+            "text2": "Biggest discount for the first 200 customers!",
             "text_alignment": "center",
             "color_scheme": "inverse",
-            "link": "https:\/\/uresta.com\/mailing-list\/"
+            "link": "https:\/\/shop.uresta.com"
           }
         }
       },
