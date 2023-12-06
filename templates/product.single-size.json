@@ -44,10 +44,17 @@
           "settings": {
           }
         },
+        "254d3c9b-e2d4-4569-8b3d-c2804494a956": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>IMPORTANT: Be sure to choose your correct size above before ordering!<\/strong>",
+            "text_style": "body"
+          }
+        },
         "254d3c9b-e2d4-4569-8b3d-c2804494a955": {
           "type": "text",
           "settings": {
-            "text": "<strong>IMPORTANT: Be sure to choose your correct size above before ordering!<\/strong> First time users should try the <a href=\"\/products\/bladder-support-starter-kit\" title=\"Bladder Support Starter Kit\">Uresta Starter Kit<\/a> to find the perfect fit! When it comes time to replace your Uresta, simply purchase the size that fits you best. As a reminder, Uresta should be replaced annually to ensure proper fit, comfort, and safety.",
+            "text": "First time users should try the <a href=\"\/products\/bladder-support-starter-kit\" title=\"Bladder Support Starter Kit\">Uresta Starter Kit<\/a> to find the perfect fit! When it comes time to replace your Uresta, simply purchase the size that fits you best. As a reminder, Uresta should be replaced annually to ensure proper fit, comfort, and safety.",
             "text_style": "body"
           }
         },
@@ -130,6 +137,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "254d3c9b-e2d4-4569-8b3d-c2804494a956",
         "254d3c9b-e2d4-4569-8b3d-c2804494a955",
         "842ca869-39f4-4905-aecb-e6d6bd421423",
         "description",
