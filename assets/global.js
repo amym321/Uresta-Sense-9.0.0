@@ -812,6 +812,7 @@ class VariantSelects extends HTMLElement {
   onVariantChange() {
     this.updateOptions();
     this.updateMasterId();
+    this.swapReplacementsButton();  // - am
     this.toggleAddButton(true, '', false);
     this.updatePickupAvailability();
     this.removeErrorMessage();
@@ -826,6 +827,31 @@ class VariantSelects extends HTMLElement {
       this.updateVariantInput();
       this.renderProductInfo();
       this.updateShareUrl();
+    }
+  }
+
+  // swap false ATC for true ATC & change classes that were initially set on page load - am
+  swapReplacementsButton() {
+    if (!this.currentVariant) return;
+
+    var replacements = this.currentVariant.name.includes('Replacements');
+    if (!replacements) return;
+
+    if (replacements) {
+      var placementButton = document.getElementById('ProductDisableButton');
+      var atcButton = document.getElementById(`ProductSubmitButton-${this.dataset.section}`);
+      var optionLabel = document.getElementById('option-label');
+      var optionLabel2 = document.getElementsByClassName('option-label');
+
+      placementButton.classList.add('replacements-atc');
+      atcButton.classList.remove('replacements-atc');
+      optionLabel.classList.remove('not-colored');
+
+      // remove class on all labels
+      optionLabel2.forEach((label => {
+        label.classList.remove('not-colored');
+      }));
+
     }
   }
 
