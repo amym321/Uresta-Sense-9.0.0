@@ -69,16 +69,31 @@
               assign quantity_rule_soldout = true
             endif
           -%}
+
+          {% comment %} Replacements product has false atc initially - am {% endcomment %}
+          {% if product.title contains 'Replacements' %}
+            <button
+              id = "ProductDisableButton"
+              class="pdp-atc product-form__submit button button--full-width {% if show_dynamic_checkout %}button--secondary{% else %}button--primary{% endif %}"
+              disabled="disabled">
+              <span>PLEASE SELECT SIZE</span>
+            </button>
+          {% endif %}
+
+          {% comment %} Replacements product true atc is hidden initially - am {% endcomment %}
           <button
             id = "ProductSubmitButton-{{ section_id }}"
             type="submit"
             name="add"
-            class="product-form__submit button button--full-width {% if show_dynamic_checkout %}button--secondary{% else %}button--primary{% endif %}"
+            class="pdp-atc product-form__submit button button--full-width {% if show_dynamic_checkout %}button--secondary{% else %}button--primary{% endif %}
+              {% if product.title contains 'Replacements' %} replacements-atc {% endif %}"
             {% if product.selected_or_first_available_variant.available == false or quantity_rule_soldout %}
-              disabled
+              disabled="disabled"
             {% endif %}
           >
             <span>
+              {% comment %} {% if product.title contains 'Replacements' %}
+                PLEASE SELECT SIZE {% endcomment %}
               {%- if product.selected_or_first_available_variant.available == false or quantity_rule_soldout -%}
                 {{ 'products.product.sold_out' | t }}
               {%- else -%}
@@ -150,3 +165,20 @@
     <script src="{{ 'pickup-availability.js' | asset_url }}" defer="defer"></script>
   {%- endif -%}
 </div>
+
+{% comment %} - am {% endcomment %}
+<style>
+.replacements-atc {
+  visibility: hidden;
+  opacity:0;
+  height:0;
+  display:none;
+}
+.replacements-atc span {
+  height:0;
+}
+.replacements-atc:before,
+.replacements-atc:after  {
+  display:none
+}
+</style>

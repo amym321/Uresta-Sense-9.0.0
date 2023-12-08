@@ -46,20 +46,26 @@
   -%}
 
   {%- if block.settings.picker_type == 'button' -%}
+    {% comment %} Replacements product doesn't get a pre-selected variant - am {% endcomment %}
     <input
       type="radio"
       id="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}"
       name="{{ option.name }}"
       value="{{ value | escape }}"
       form="{{ product_form_id }}"
-      {% if option.selected_value == value %}
-        checked
-      {% endif %}
+
+      {%  unless product.title contains 'Replacements'  %}
+        {% if option.selected_value == value %}
+          checked
+        {% endif %}
+      {% endunless  %}
+
       {% if option_disabled %}
         class="disabled"
       {% endif %}
     >
-    <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
+    {% comment %} Replacements product - no colored label as a pre-selected variant - am {% endcomment %}
+    <label id="option-label" class="option-label {% if product.title contains 'Replacements' %} not-colored {% endif %}" for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
       {{ value -}}
       <span class="visually-hidden">{{ 'products.product.variant_sold_out_or_unavailable' | t }}</span>
     </label>
@@ -78,3 +84,11 @@
     </option>
   {%- endif -%}
 {%- endfor -%}
+
+
+<style>
+  .product-form__input  .not-colored  {
+    background-color: #ffffff00 !important;
+    color: rgb(var(--color-foreground)) !important;
+  }
+</style>
