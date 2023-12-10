@@ -71,7 +71,7 @@
           -%}
 
           {% comment %} Replacements product has false atc initially - am {% endcomment %}
-          {% if product.title contains 'Replacements' %}
+          {% if product.title contains 'Replacement' %}
             <button
               id = "ProductDisableButton"
               class="pdp-atc product-form__submit button button--full-width {% if show_dynamic_checkout %}button--secondary{% else %}button--primary{% endif %}"
@@ -86,13 +86,13 @@
             type="submit"
             name="add"
             class="pdp-atc product-form__submit button button--full-width {% if show_dynamic_checkout %}button--secondary{% else %}button--primary{% endif %}
-              {% if product.title contains 'Replacements' %} replacements-atc {% endif %}"
+              {% if product.title contains 'Replacement' %} replacements-atc {% endif %}"
             {% if product.selected_or_first_available_variant.available == false or quantity_rule_soldout %}
               disabled="disabled"
             {% endif %}
           >
             <span>
-              {% comment %} {% if product.title contains 'Replacements' %}
+              {% comment %} {% if product.title contains 'Replacement' %}
                 PLEASE SELECT SIZE {% endcomment %}
               {%- if product.selected_or_first_available_variant.available == false or quantity_rule_soldout -%}
                 {{ 'products.product.sold_out' | t }}

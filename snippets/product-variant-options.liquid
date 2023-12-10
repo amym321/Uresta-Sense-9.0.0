@@ -54,7 +54,7 @@
       value="{{ value | escape }}"
       form="{{ product_form_id }}"
 
-      {%  unless product.title contains 'Replacements'  %}
+      {%  unless product.title contains 'Replacement'  %}
         {% if option.selected_value == value %}
           checked
         {% endif %}
@@ -65,7 +65,7 @@
       {% endif %}
     >
     {% comment %} Replacements product - no colored label as a pre-selected variant - am {% endcomment %}
-    <label id="option-label" class="option-label {% if product.title contains 'Replacements' %} not-colored {% endif %}" for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
+    <label id="option-label" class="option-label {% if product.title contains 'Replacement' %} not-colored {% endif %}" for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
       {{ value -}}
       <span class="visually-hidden">{{ 'products.product.variant_sold_out_or_unavailable' | t }}</span>
     </label>

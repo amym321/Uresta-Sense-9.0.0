@@ -834,7 +834,7 @@ class VariantSelects extends HTMLElement {
   swapReplacementsButton() {
     if (!this.currentVariant) return;
 
-    var replacements = this.currentVariant.name.includes('Replacements');
+    var replacements = this.currentVariant.name.includes('Replacement');
     if (!replacements) return;
 
     if (replacements) {
