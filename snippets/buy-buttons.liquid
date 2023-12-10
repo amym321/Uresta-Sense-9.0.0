@@ -92,7 +92,7 @@
             {% endif %}
           >
             <span>
-              {% comment %} {% if product.title contains 'Replacement' %}
+              {% comment %}  if product.title contains 'Replacement' 
                 PLEASE SELECT SIZE {% endcomment %}
               {%- if product.selected_or_first_available_variant.available == false or quantity_rule_soldout -%}
                 {{ 'products.product.sold_out' | t }}
