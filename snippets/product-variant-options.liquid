@@ -65,7 +65,7 @@
       {% endif %}
     >
     {% comment %} Replacements product - no colored label as a pre-selected variant - am {% endcomment %}
-    <label id="option-label" class="option-label {% if product.title contains 'Replacement' %} not-colored {% endif %}" for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
+    <label id="option-label" class="option-label {% if product.title contains 'Replacement' %}replacement-variant not-colored {% endif %}" for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
       {{ value -}}
       <span class="visually-hidden">{{ 'products.product.variant_sold_out_or_unavailable' | t }}</span>
     </label>
@@ -90,5 +90,10 @@
   .product-form__input  .not-colored  {
     background-color: #ffffff00 !important;
     color: rgb(var(--color-foreground)) !important;
+  }
+
+  .replacement-variant:hover {
+    background-color:#4a4046 !important; /*#575355 */
+    color:#fff !important;
   }
 </style>
