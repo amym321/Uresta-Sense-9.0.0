@@ -25,7 +25,7 @@
         "42b0a5b8-6b8d-4074-a69c-2fdb012da6fc": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<!-- TrustBox widget - Micro Star -->\n<div class=\"trustpilot-widget\" data-locale=\"en-CA\" data-template-id=\"5419b732fbfb950b10de65e5\" data-businessunit-id=\"632b312facc254ca8727cdcb\" data-style-height=\"24px\" data-style-width=\"270px\"  data-theme=\"light\">\n  <a href=\"https:\/\/ca.trustpilot.com\/review\/uresta.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
+            "custom_liquid": "<div class=\"klaviyo-star-rating-widget\" data-id=\"{{product.id}}\" data-product-title=\"{{product.title}}\" data-product-type=\"{{product.type}}\"><\/div>"
           }
         },
         "price": {
