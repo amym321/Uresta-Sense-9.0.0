@@ -593,7 +593,7 @@
     "d83e3087-973c-4943-8bf4-80f3fcb251a9": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><h2>Hundreds of verified reviews.<\/h2><\/center><div id=\"klaviyo-reviews-all\" data-id=\"{{product.id}}\"><\/div>",
+        "custom_liquid": "<center><h2>Hundreds of verified reviews.<\/h2><\/center><div style='max-width: 94%; width: 1000px; margin: 0 auto;' id=\"klaviyo-reviews-all\" data-id=\"{{product.id}}\"><\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
