@@ -110,7 +110,7 @@
         "39afcf35-9a67-40e3-ad88-f896fcc756f4": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<!-- TrustBox widget - Micro Star -->\n<div class=\"trustpilot-widget\" data-locale=\"en-CA\" data-template-id=\"5419b732fbfb950b10de65e5\" data-businessunit-id=\"632b312facc254ca8727cdcb\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\">\n  <a href=\"https:\/\/ca.trustpilot.com\/review\/uresta.com\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<style>\n.tp-widget-wrapper {\n    text-align: left !important;\n}\n<\/style>\n<!-- End TrustBox widget -->"
+            "custom_liquid": "<div class=\"klaviyo-star-rating-widget\" data-id=\"1881006276659\" data-product-title=\"Starter Kit\" data-product-type=\"\">"
           }
         },
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-price-1": {
