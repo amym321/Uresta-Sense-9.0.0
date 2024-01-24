@@ -213,7 +213,7 @@
     "603c6167-b206-442b-8db1-87fdf1ec9493": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><h2>Hundreds of verified reviews.<\/h2><\/center><div style='max-width: 94%; width: 1000px; margin: 0 auto;' id=\"klaviyo-reviews-all\" data-id=\"{{product.id}}\"><\/div>",
+        "custom_liquid": "<center><h2>Hundreds of verified reviews.<\/h2><\/center><div style='max-width: 94%; width: 1000px; margin: 0 auto;' id=\"klaviyo-reviews-all\" data-id=\"1881006276659\"><\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
