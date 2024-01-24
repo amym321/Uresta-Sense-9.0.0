@@ -110,7 +110,7 @@
         "39afcf35-9a67-40e3-ad88-f896fcc756f4": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"klaviyo-star-rating-widget\" data-id=\"1881006276659\" data-product-title=\"Starter Kit\" data-product-type=\"\">"
+            "custom_liquid": "<div class=\"klaviyo-star-rating-widget\" data-id=\"1881006276659\" data-product-title=\"Starter Kit\" data-product-type=\"\"><\/div>"
           }
         },
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-price-1": {
