@@ -234,7 +234,7 @@
     "df8cf72a-c856-4c20-afd0-7823e45977cf": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><h2>Hundreds of verified reviews.<\/h2><div id=\"klaviyo-reviews-all\" data-id=\"{{product.id}}\"><\/div><\/center>",
+        "custom_liquid": "<center style='display: none;'><h2>Hundreds of verified reviews.<\/h2><div id=\"klaviyo-reviews-all\" data-id=\"{{product.id}}\"><\/div><\/center>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
