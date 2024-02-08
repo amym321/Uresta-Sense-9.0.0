@@ -183,7 +183,7 @@
   padding: 10px 15px;
   border-radius: 60px;
   color: #ffffff;
-  text-align: center;
+  text-align: center !important;
   font-weight: bold; 
   margin-top:15px; 
   
