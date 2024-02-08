@@ -174,6 +174,9 @@
 .footer-block--menu:nth-of-type(4) li:nth-of-type(2) a {
   background-color: #54cddf;
   margin-top:20px;
+.footer-block--menu:nth-of-type(4) li:nth-of-type(3) a {
+  background-color: ##8E85BE;
+  margin-top:20px;
 }
 .footer-block--menu:nth-of-type(4) li:nth-of-type(1) a,
 .footer-block--menu:nth-of-type(4) li:nth-of-type(2) a,
