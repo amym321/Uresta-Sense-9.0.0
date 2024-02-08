@@ -170,6 +170,12 @@
 
 .footer-block--menu:nth-of-type(4) li:nth-of-type(1) a {
   background-color: #fd8b72;
+  width: calc(100% - 0px);
+  padding: 10px 15px;
+  border-radius: 60px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold; 
 }
 .footer-block--menu:nth-of-type(4) li:nth-of-type(2) a {
   background-color: #54cddf;
