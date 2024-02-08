@@ -173,8 +173,12 @@
 }
 .footer-block--menu:nth-of-type(4) li:nth-of-type(2) a {
   background-color: #54cddf;
+  width: calc(100% - 0px);
+  padding: 10px 15px;
+  border-radius: 60px;
+  color: #ffffff;
   text-align: center;
-  font-weight: bold;
+  font-weight: bold; 
   margin-top:20px; 
 }
 
