@@ -200,13 +200,4 @@
   margin-top:15px; 
   justify-content: center;
 }
-}
-.footer-block--menu:nth-of-type(4) li:nth-of-type(1) a,
-.footer-block--menu:nth-of-type(4) li:nth-of-type(2) a {
-  width: 250px;
-  padding: 10px 15px;
-  border-radius: 60px;
-  color: #ffffff;
-  text-align: center;
-  font-weight: bold; 
-}
+
