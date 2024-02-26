@@ -388,8 +388,8 @@ slider-component.slider-component-full-width {
   transform: rotate(90deg) scale(1.1);
 }
 .caption{
-font-size: 1.1rem !important;
+font-size: 1.5rem !important;
 }
 .slider-button .icon {
-   height: 1.0rem !important;
+   height: 1.2rem !important;
 }
