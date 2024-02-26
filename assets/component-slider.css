@@ -374,10 +374,12 @@ slider-component.slider-component-full-width {
 
 .slider-button--next .icon {
   transform: rotate(-90deg);
+  height: 0.6rem;
 }
 
 .slider-button--prev .icon {
   transform: rotate(90deg);
+  height: 0.6rem;
 }
 
 .slider-button--next:not([disabled]):hover .icon {
