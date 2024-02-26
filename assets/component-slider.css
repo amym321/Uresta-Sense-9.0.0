@@ -368,7 +368,7 @@ slider-component.slider-component-full-width {
 }
 
 .slider-button[disabled] .icon {
-  color: rgba(var(--color-foreground), 0.6);
+  color: rgba(var(--color-foreground), 0.3);
   cursor: not-allowed;
 }
 
