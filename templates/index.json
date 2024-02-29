@@ -153,12 +153,6 @@
           "settings": {
             "show_dynamic_checkout": false
           }
-        },
-        "custom_liquid_mGQHQM": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<script>\n(function waitForButton() {\n    setTimeout(function() {\n        const button = document.querySelector('button[data-media-id=\"22472478392371\"]');\n        if (button) {\n            \/\/ Remove existing click events to prevent conflicts\n            const newButton = button.cloneNode(true);\n            button.parentNode.replaceChild(newButton, button);\n\n            \/\/ Now, bind the click event to redirect the user\n            newButton.addEventListener('click', function() {\n                window.location.href = 'https:\/\/shop.uresta.com\/products\/bladder-support-starter-kit';\n            });\n        } else {\n            waitForButton(); \/\/ Recast the spell if the button was not found\n        }\n    }, 500);\n})();\nwaitForButton();\n<\/script>"
-          }
         }
       },
       "block_order": [
@@ -169,8 +163,7 @@
         "b2ce3378-6ae0-495f-b059-cba8ddce4104",
         "a3cf317a-608a-4723-b505-651f42e5411b",
         "e984c84d-8a70-4c51-ba1e-d7554f55c406",
-        "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1",
-        "custom_liquid_mGQHQM"
+        "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1"
       ],
       "custom_css": [
 
@@ -183,7 +176,7 @@
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "media_position": "right",
-        "image_zoom": "lightbox",
+        "image_zoom": "none",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
