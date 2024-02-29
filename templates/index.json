@@ -157,7 +157,7 @@
         "custom_liquid_mGQHQM": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<script>\ndocument.addEventListener('DOMContentLoaded', function() {\n    const button = document.querySelector('button[data-media-id=\"22472478392371\"]');\n    if (button) {\n        button.addEventListener('click', function() {\n            window.location.href = 'https:\/\/shop.uresta.com\/products\/bladder-support-starter-kit';\n        });\n    }\n});\n<\/script>"
+            "custom_liquid": "<script>\n(function waitForButton() {\n    setTimeout(function() {\n        const button = document.querySelector('button[data-media-id=\"22472478392371\"]');\n        if (button) {\n            button.addEventListener('click', function() {\n                window.location.href = 'https:\/\/shop.uresta.com\/products\/bladder-support-starter-kit';\n            });\n        } else {\n            waitForButton(); \/\/ Recast the spell if the button was not found\n        }\n    }, 500);\n})();\n<\/script>"
           }
         }
       },
