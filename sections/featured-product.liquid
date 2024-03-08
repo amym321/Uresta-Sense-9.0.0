@@ -142,12 +142,15 @@
                   {{- block.settings.text -}}
                 </p>
               {%- when 'title' -%}
+               <a href="{{ product.url }}" class="product__title-href">
                 <h2 class="product__title {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
                   {%- if product.title != blank -%}
                     {{ product.title | escape }}
                   {%- else -%}
                     {{ 'onboarding.product_title' | t }}
                   {%- endif -%}
+                </h2>
+              </a>
                 </h2>
               {%- when 'price' -%}
                 <div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
