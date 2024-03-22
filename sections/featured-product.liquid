@@ -355,6 +355,9 @@
       </div>
       {%- if section.settings.media_position == 'right' -%}
         <div class="grid__item product__media-wrapper small-hide">
+
+        {% comment %} add link to the image on featured product that links to the product - am {% endcomment %}
+        <a href="{{ product.url }}" >
           <media-gallery
             id="MediaGallery-{{ section.id }}-right"
             role="region"
@@ -411,6 +414,8 @@
               </button>
             {%- endif -%}
           </media-gallery>
+        </a>
+
         </div>
       {%- endif -%}
     </div>
