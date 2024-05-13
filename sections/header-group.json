@@ -8,11 +8,11 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "🌷 Mother’s Day Sale! 🌷",
-            "text2": "Buy for yourself or with a friend and SAVE up to 25%",
+            "text": "Try risk-free",
+            "text2": "30-day refund window for Starter Kit and free shipping on $50+",
             "text_alignment": "center",
             "color_scheme": "inverse",
-            "link": "https:\/\/shop.uresta.com"
+            "link": "shopify:\/\/products\/bladder-support-starter-kit"
           }
         }
       },
