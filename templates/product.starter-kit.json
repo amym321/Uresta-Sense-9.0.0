@@ -109,15 +109,6 @@
             "page": ""
           }
         },
-        "collapsible_tab_qttcaz": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "How can I buy Uresta if I'm in the USA?",
-            "icon": "check_mark",
-            "content": "<p>Uresta is launching this summer in the USA! Be one of the first to know by signing up for our waitlist <a href=\"https:\/\/manage.kmail-lists.com\/subscriptions\/subscribe?a=X7kxCb&g=WsDqzM\" target=\"_blank\"><strong>here<\/strong><\/a>. Inventory is limited, so be sure to get on the list!<\/p>",
-            "page": ""
-          }
-        },
         "500a2563-bfde-46b5-a6ea-900c06d76cfc": {
           "type": "icon-with-text",
           "settings": {
@@ -149,7 +140,6 @@
         "00528fd4-2115-48a8-b5ee-d9f0489004db",
         "8d426e45-7ffc-42b0-853a-c29f12029b19",
         "3684b195-f2aa-46f4-839d-44fe968100b1",
-        "collapsible_tab_qttcaz",
         "500a2563-bfde-46b5-a6ea-900c06d76cfc"
       ],
       "settings": {
@@ -352,6 +342,15 @@
             "row_content": "<p>Since the Uresta fits cozily in your vagina, it’s best to remove it before diving into sexy time – could get crowded in there!<\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_BcRrtm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I buy Uresta if I'm in the USA?",
+            "icon": "check_mark",
+            "row_content": "<p>Uresta is launching this summer in the USA! Be one of the first to know by signing up for our waitlist <a href=\"https:\/\/manage.kmail-lists.com\/subscriptions\/subscribe?a=X7kxCb&g=WsDqzM\" target=\"_blank\"><strong>here<\/strong><\/a>. Inventory is limited, so be sure to get on the list!<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -361,7 +360,8 @@
         "template--14930299715635__bd0381cc-c5e7-4738-a72b-6962892f82a1-collapsible_row-4",
         "407922b6-46ec-48d3-84b5-ba6b4d5577ee",
         "9b201cd6-1d54-47f0-8c29-7ee0e8dc3f74",
-        "3f6fcea0-b6cd-4595-8e47-85a7762a515c"
+        "3f6fcea0-b6cd-4595-8e47-85a7762a515c",
+        "collapsible_row_BcRrtm"
       ],
       "settings": {
         "caption": "",
