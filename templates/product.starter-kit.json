@@ -109,6 +109,15 @@
             "page": ""
           }
         },
+        "collapsible_tab_qttcaz": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How can I buy Uresta if I'm in the USA?",
+            "icon": "check_mark",
+            "content": "<p>Uresta is launching this summer in the USA! Be one of the first to know by signing up for our waitlist <a href=\"https:\/\/manage.kmail-lists.com\/subscriptions\/subscribe?a=X7kxCb&g=WsDqzM\" target=\"_blank\"><strong>here<\/strong><\/a>. Inventory is limited, so be sure to get on the list!<\/p>",
+            "page": ""
+          }
+        },
         "500a2563-bfde-46b5-a6ea-900c06d76cfc": {
           "type": "icon-with-text",
           "settings": {
@@ -140,6 +149,7 @@
         "00528fd4-2115-48a8-b5ee-d9f0489004db",
         "8d426e45-7ffc-42b0-853a-c29f12029b19",
         "3684b195-f2aa-46f4-839d-44fe968100b1",
+        "collapsible_tab_qttcaz",
         "500a2563-bfde-46b5-a6ea-900c06d76cfc"
       ],
       "settings": {
@@ -155,6 +165,33 @@
         "enable_video_looping": false,
         "padding_top": 0,
         "padding_bottom": 60
+      }
+    },
+    "rich_text_7iigzn": {
+      "type": "rich-text",
+      "blocks": {
+        "button_FFMBqg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Launching soon in the USA - join the waitlist",
+            "button_link": "https:\/\/manage.kmail-lists.com\/subscriptions\/subscribe?a=X7kxCb&g=WsDqzM",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_FFMBqg"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
       }
     },
     "1b9dd641-2b30-4e74-b1b8-87ba849b9499": {
@@ -630,6 +667,7 @@
   "order": [
     "d1bd2b3e-b693-407b-9365-fe793ef5f914",
     "main",
+    "rich_text_7iigzn",
     "1b9dd641-2b30-4e74-b1b8-87ba849b9499",
     "69abbefe-03ae-4038-bd90-e8961b097046",
     "bd0381cc-c5e7-4738-a72b-6962892f82a1",
