@@ -9,13 +9,13 @@
           "type": "heading",
           "settings": {
             "heading": "✨ Big Announcement! ✨",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "sections--14930295816243__5597e21c-20d7-4b21-b7a7-fe7f68447e0f-paragraph-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<h2><strong>Uresta is coming to the US this summer! Don’t miss out and <\/strong><a href=\"https:\/\/manage.kmail-lists.com\/subscriptions\/subscribe?a=X7kxCb&g=WsDqzM\" target=\"_blank\" title=\"https:\/\/manage.kmail-lists.com\/subscriptions\/subscribe?a=X7kxCb&g=WsDqzM\"><strong>sign up for VIP access!<\/strong><\/a><\/h2>"
+            "text": "<h3><strong>Uresta is coming to the US this summer! Don’t miss out and <\/strong><a href=\"https:\/\/manage.kmail-lists.com\/subscriptions\/subscribe?a=X7kxCb&g=WsDqzM\" target=\"_blank\" title=\"https:\/\/manage.kmail-lists.com\/subscriptions\/subscribe?a=X7kxCb&g=WsDqzM\"><strong>sign up for VIP access!<\/strong><\/a><\/h3>"
           }
         }
       },
