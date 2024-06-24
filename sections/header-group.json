@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -19,6 +28,7 @@
       "block_order": [
         "announcement-bar-0"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -27,6 +37,7 @@
     },
     "header": {
       "type": "header",
+      "disabled": true,
       "custom_css": [
         "@media (min-width: 990px) {.header--middle-left {grid-template-columns: auto 1fr auto; } .header__inline-menu {display: flex; justify-content: end; }}",
         "sticky-header {border-bottom: #888; box-shadow: 0 2px 4px #888888;}",

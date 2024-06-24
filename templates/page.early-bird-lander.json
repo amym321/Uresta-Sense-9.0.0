@@ -11,13 +11,87 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_pHDB9L": {
+      "type": "featured-product",
+      "blocks": {
+        "text_QUeMN4": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_Q8DkGQ": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_N3HRRm": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_6PETfk": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_grXynr": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_XtXwXJ": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share_L7zVCE": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_QUeMN4",
+        "title_Q8DkGQ",
+        "price_N3HRRm",
+        "variant_picker_6PETfk",
+        "quantity_selector_grXynr",
+        "buy_buttons_XtXwXJ",
+        "share_L7zVCE"
+      ],
+      "custom_css": [
+        "div {background-color: #d8e3ff; max-width: 100%;}"
+      ],
+      "settings": {
+        "product": "bladder-support-starter-kit",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "featured_product_pHDB9L"
   ]
 }
