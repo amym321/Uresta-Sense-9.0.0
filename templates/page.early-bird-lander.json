@@ -24,7 +24,7 @@
           "type": "heading",
           "settings": {
             "heading": "Secure early-bird pricing before Uresta’s official US launch! Supply is limited, so get yours today!",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "text_wePpzX": {
@@ -33,37 +33,24 @@
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
-        },
-        "button_g4LVRw": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_9wzQGJ",
-        "text_wePpzX",
-        "button_g4LVRw"
+        "text_wePpzX"
       ],
       "custom_css": [
-        "div {background-color: #014649; max-width: 100%;}",
-        "h2 {color: #f4b0f4;}",
-        "p {color: #f4b0f4;}"
+        "div {background-color: #d8e3ff; max-width: 100%;}",
+        "h2 {color: #014649; padding-left: 200px; padding-right: 200px;}",
+        "p {color: #014649;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 60,
+        "padding_bottom": 40
       }
     },
     "featured_product_pHDB9L": {
@@ -102,9 +89,8 @@
         },
         "buy_buttons_XtXwXJ": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "share_L7zVCE": {
@@ -130,6 +116,7 @@
         "h3 {color: #014649;}",
         "h4 {color: #014649;}",
         "h5 {color: #014649;}",
+        "h6 {color: #014649;}",
         "p {color: #014649;}"
       ],
       "settings": {
@@ -143,8 +130,8 @@
         "image_zoom": "none",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     }
   },
