@@ -17,16 +17,58 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_KL7DFL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9wzQGJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Secure early-bird pricing before Uresta’s official US launch! Supply is limited, so get yours today!",
+            "heading_size": "h2"
+          }
+        },
+        "text_wePpzX": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_g4LVRw": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9wzQGJ",
+        "text_wePpzX",
+        "button_g4LVRw"
+      ],
+      "custom_css": [
+        "div {background-color: #014649; max-width: 100%;}",
+        "h2 {color: #f4b0f4;}",
+        "p {color: #f4b0f4;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "featured_product_pHDB9L": {
       "type": "featured-product",
       "blocks": {
-        "text_QUeMN4": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title_Q8DkGQ": {
           "type": "title",
           "settings": {
@@ -38,41 +80,57 @@
           "settings": {
           }
         },
+        "text_QUeMN4": {
+          "type": "text",
+          "settings": {
+            "text": "Uresta is the modern-day solution to bladder leakage, providing immediate relief without",
+            "text_style": "body"
+          }
+        },
         "variant_picker_6PETfk": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
         },
         "quantity_selector_grXynr": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
         "buy_buttons_XtXwXJ": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true
           }
         },
         "share_L7zVCE": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
         }
       },
       "block_order": [
-        "text_QUeMN4",
         "title_Q8DkGQ",
         "price_N3HRRm",
+        "text_QUeMN4",
         "variant_picker_6PETfk",
         "quantity_selector_grXynr",
         "buy_buttons_XtXwXJ",
         "share_L7zVCE"
       ],
       "custom_css": [
-        "div {background-color: #d8e3ff; max-width: 100%;}"
+        "div {background-color: #d8e3ff; max-width: 100%;}",
+        "h2 {color: #014649;}",
+        "h3 {color: #014649;}",
+        "h4 {color: #014649;}",
+        "h5 {color: #014649;}",
+        "p {color: #014649;}"
       ],
       "settings": {
         "product": "bladder-support-starter-kit",
@@ -82,7 +140,7 @@
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "media_position": "left",
-        "image_zoom": "lightbox",
+        "image_zoom": "none",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -92,6 +150,7 @@
   },
   "order": [
     "main",
+    "rich_text_KL7DFL",
     "featured_product_pHDB9L"
   ]
 }
