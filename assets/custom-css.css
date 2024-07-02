@@ -200,4 +200,5 @@
   margin-top:15px; 
   justify-content: center;
 }
-
+.header__icon--search { display: none !important; }
+}
