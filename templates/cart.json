@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "cart-items": {
@@ -49,6 +58,7 @@
     },
     "2eaa995d-8390-4a5f-bb22-7e279b04d1fe": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Frequently bought together",
         "heading_size": "h2",
