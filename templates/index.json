@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "featured-collection": {
@@ -10,7 +19,7 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "description": "<p>If you're new to Uresta, try the Starter Kit to find your size. The Starter Kit comes with a <strong>30-day money back guarantee<\/strong>.<\/p><p>All other Uresta products are final sale. Click on product images below to learn more.<\/p>",
+        "description": "<p>If you're new to Uresta, try the Starter Kit to find your size. The Starter Kit comes with a <strong>30-day money back guarantee</strong>.</p><p>All other Uresta products are final sale. Click on product images below to learn more.</p>",
         "show_description": false,
         "description_style": "subtitle",
         "collection": "frontpage",
@@ -56,7 +65,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Uresta-shop-all-hero-desktop.jpg",
+        "image": "shopify://shop_images/Uresta-shop-all-hero-desktop.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -75,7 +84,7 @@
         "template--14954976018483__d97b55bb-8317-44ba-9df8-407611a45312-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p>If you're new to Uresta, try the Starter Kit to find your size. The Starter Kit comes with a <strong>30-day money back guarantee<\/strong>.<\/p><p><em>All other Uresta products are final sale. Click on product images below to learn more.<\/em><\/p>"
+            "text": "<p></p><p>If you're new to Uresta, try the Starter Kit to find your size. The Starter Kit comes with a <strong>30-day money back guarantee</strong>.</p><p><em>All other Uresta products are final sale. Click on product images below to learn more.</em></p>"
           }
         }
       },
@@ -110,7 +119,7 @@
         "39afcf35-9a67-40e3-ad88-f896fcc756f4": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"klaviyo-star-rating-widget\" data-id=\"1881006276659\" data-product-title=\"Starter Kit\" data-product-type=\"\"><\/div>"
+            "custom_liquid": "<div class=\"klaviyo-star-rating-widget\" data-id=\"1881006276659\" data-product-title=\"Starter Kit\" data-product-type=\"\"></div>"
           }
         },
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-price-1": {
@@ -120,16 +129,15 @@
         },
         "b2ce3378-6ae0-495f-b059-cba8ddce4104": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<strong>Uresta is the modern-day solution to bladder leakage, providing immediate relief without medical intervention.<\/strong> This starter kit includes 3 of our most common sizes that fit 90% of women. If you need something bigger or smaller, we can send it to you at no extra charge within 30 days.",
+            "text": "<strong>Black Friday: 15% off 1 Starter Kit or 25% off 2! </strong>Hurry, limited inventory available!",
             "text_style": "body"
           }
         },
         "a3cf317a-608a-4723-b505-651f42e5411b": {
           "type": "text",
           "settings": {
-            "text": "<strong>Uresta is the modern-day solution to bladder leakage, providing immediate relief without medical intervention.<\/strong> This starter kit includes 3 of our most common sizes that fit 90% of women. If the sizes in the starter kit do not work for you, we have two additional sizes available, free of charge within 30 days.",
+            "text": "<strong>Uresta is the modern-day solution to bladder leakage, providing immediate relief without medical intervention.</strong> This starter kit includes 3 of our most common sizes that fit 90% of women. If the sizes in the starter kit do not work for you, we have two additional sizes available, free of charge within 30 days.",
             "text_style": "body"
           }
         },
@@ -138,13 +146,13 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "heart",
-            "image_1": "shopify:\/\/shop_images\/Uresta-Icons-01.png",
+            "image_1": "shopify://shop_images/Uresta-Icons-01.png",
             "heading_1": "Odour free",
             "icon_2": "return",
-            "image_2": "shopify:\/\/shop_images\/Uresta-Icons-02.png",
+            "image_2": "shopify://shop_images/Uresta-Icons-02.png",
             "heading_2": "Hygienic",
             "icon_3": "truck",
-            "image_3": "shopify:\/\/shop_images\/Uresta-Icons-03.png",
+            "image_3": "shopify://shop_images/Uresta-Icons-03.png",
             "heading_3": "Reusable"
           }
         },
@@ -213,7 +221,7 @@
     "603c6167-b206-442b-8db1-87fdf1ec9493": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><h2>Hundreds of verified reviews.<\/h2><\/center><div style='max-width: 94%; width: 1000px; margin: 0 auto;' id=\"klaviyo-reviews-all\" data-id=\"1881006276659\"><\/div>",
+        "custom_liquid": "<center><h2>Hundreds of verified reviews.</h2></center><div style='max-width: 94%; width: 1000px; margin: 0 auto;' id=\"klaviyo-reviews-all\" data-id=\"1881006276659\"></div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
