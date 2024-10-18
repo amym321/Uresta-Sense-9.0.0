@@ -46,7 +46,7 @@
           "type": "text",
           "settings": {
             "text": "<strong>Black Friday: 15% off 1 Starter Kit or 25% off 2! </strong>Hurry, limited inventory available!",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "variant_picker": {
