@@ -127,7 +127,7 @@
           "settings": {
           }
         },
-        "b2ce3378-6ae0-495f-b059-cba8ddce4104": {
+        "text_3eahgX": {
           "type": "text",
           "settings": {
             "text": "<strong>Black Friday: 15% off 1 Starter Kit or 25% off 2! </strong>Hurry, limited inventory available!",
@@ -156,6 +156,13 @@
             "heading_3": "Reusable"
           }
         },
+        "b2ce3378-6ae0-495f-b059-cba8ddce4104": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Black Friday Sale: Save 15% on 1 Starter Kit or 25% on 2!</strong> Act fast—stock is running low!",
+            "text_style": "body"
+          }
+        },
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1": {
           "type": "buy_buttons",
           "settings": {
@@ -168,9 +175,10 @@
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-title-1",
         "39afcf35-9a67-40e3-ad88-f896fcc756f4",
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-price-1",
-        "b2ce3378-6ae0-495f-b059-cba8ddce4104",
+        "text_3eahgX",
         "a3cf317a-608a-4723-b505-651f42e5411b",
         "e984c84d-8a70-4c51-ba1e-d7554f55c406",
+        "b2ce3378-6ae0-495f-b059-cba8ddce4104",
         "template--14930299486259__ea7b59a5-bab5-48e5-ad3c-8292476e72cd-buy_buttons-1"
       ],
       "custom_css": [
