@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "d1bd2b3e-b693-407b-9365-fe793ef5f914": {
@@ -25,12 +34,19 @@
         "42b0a5b8-6b8d-4074-a69c-2fdb012da6fc": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"klaviyo-star-rating-widget\" data-id=\"{{product.id}}\" data-product-title=\"{{product.title}}\" data-product-type=\"{{product.type}}\"><\/div>"
+            "custom_liquid": "<div class=\"klaviyo-star-rating-widget\" data-id=\"{{product.id}}\" data-product-title=\"{{product.title}}\" data-product-type=\"{{product.type}}\"></div>"
           }
         },
         "price": {
           "type": "price",
           "settings": {
+          }
+        },
+        "text_LAr8hH": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Black Friday: 15% off 1 Starter Kit or 25% off 2! </strong>Hurry, limited inventory available!",
+            "text_style": "body"
           }
         },
         "variant_picker": {
@@ -56,7 +72,7 @@
         "2c899ee5-bd88-4d8a-9ba6-6e76715ee32b": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"\/products\/bladder-support-yearly-replacement\" title=\"Bladder Support Replacement Sizes\"><strong>Already know your size? Purchase your annual replacements size here.<\/strong><\/a>",
+            "text": "<a href=\"/products/bladder-support-yearly-replacement\" title=\"Bladder Support Replacement Sizes\"><strong>Already know your size? Purchase your annual replacements size here.</strong></a>",
             "text_style": "body"
           }
         },
@@ -78,7 +94,7 @@
           "settings": {
             "heading": "What’s Included?",
             "icon": "check_mark",
-            "content": "<ul><li>Includes 3 of our most common sizes (sizes 3, 4, and 5), which works for 90% of women. Two additional sizes available free of charge if needed within 30 days.<\/li><li>Travel pouch.<\/li><\/ul>",
+            "content": "<ul><li>Includes 3 of our most common sizes (sizes 3, 4, and 5), which works for 90% of women. Two additional sizes available free of charge if needed within 30 days.</li><li>Travel pouch.</li></ul>",
             "page": ""
           }
         },
@@ -87,7 +103,7 @@
           "settings": {
             "heading": "How do I find my size?",
             "icon": "check_mark",
-            "content": "<p>The female pelvic floor is complex, but the process of finding the right size Uresta is simple. Start with the middle size 4 included in the Uresta Starter Kit and follow the steps below:<\/p><p><strong>You have found your perfect size if:<\/strong><\/p><ul><li>Your bladder leakage has stopped<\/li><li>You are able to empty your bladder without difficulty<\/li><li>Uresta fits comfortably and is barely noticeable<\/li><\/ul><p><\/p><p><strong>Try a smaller size if:<\/strong><\/p><ul><li>You are unable to empty your bladder<\/li><li>It is uncomfortable<\/li><\/ul><p><strong>Try a larger size if:<\/strong><\/p><ul><li>Your bladder leaking has not stopped.<\/li><li>Uresta falls down to the opening of your vagina or falls out altogether.<\/li><\/ul><p>If the sizes in the starter kit do not work for you, we have two additional sizes available, free of charge within 30 days.<\/p>",
+            "content": "<p>The female pelvic floor is complex, but the process of finding the right size Uresta is simple. Start with the middle size 4 included in the Uresta Starter Kit and follow the steps below:</p><p><strong>You have found your perfect size if:</strong></p><ul><li>Your bladder leakage has stopped</li><li>You are able to empty your bladder without difficulty</li><li>Uresta fits comfortably and is barely noticeable</li></ul><p></p><p><strong>Try a smaller size if:</strong></p><ul><li>You are unable to empty your bladder</li><li>It is uncomfortable</li></ul><p><strong>Try a larger size if:</strong></p><ul><li>Your bladder leaking has not stopped.</li><li>Uresta falls down to the opening of your vagina or falls out altogether.</li></ul><p>If the sizes in the starter kit do not work for you, we have two additional sizes available, free of charge within 30 days.</p>",
             "page": ""
           }
         },
@@ -96,7 +112,7 @@
           "settings": {
             "heading": "What if it doesn’t work?",
             "icon": "check_mark",
-            "content": "<p>If you are experiencing any challenges with Uresta, we recommend reaching out to our <a href=\"https:\/\/uresta.com\/help\/\" target=\"_blank\">customer support team<\/a>. If you are still not satisfied with Uresta, we will refund you the cost within 30 days of delivery.<\/p>",
+            "content": "<p>If you are experiencing any challenges with Uresta, we recommend reaching out to our <a href=\"https://uresta.com/help/\" target=\"_blank\">customer support team</a>. If you are still not satisfied with Uresta, we will refund you the cost within 30 days of delivery.</p>",
             "page": ""
           }
         },
@@ -105,7 +121,7 @@
           "settings": {
             "heading": "How long does it last?",
             "icon": "check_mark",
-            "content": "<p>For safety and optimal long-term use, we recommend swapping out your Uresta at least once a year. It’s a hygiene thing, like renewing your toothbrush or switching out your socks. Keep it fresh, keep it comfy!<\/p>",
+            "content": "<p>For safety and optimal long-term use, we recommend swapping out your Uresta at least once a year. It’s a hygiene thing, like renewing your toothbrush or switching out your socks. Keep it fresh, keep it comfy!</p>",
             "page": ""
           }
         },
@@ -114,13 +130,13 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "eye",
-            "image_1": "shopify:\/\/shop_images\/Uresta-Icons-01.png",
+            "image_1": "shopify://shop_images/Uresta-Icons-01.png",
             "heading_1": "Odour Free",
             "icon_2": "return",
-            "image_2": "shopify:\/\/shop_images\/Uresta-Icons-02.png",
+            "image_2": "shopify://shop_images/Uresta-Icons-02.png",
             "heading_2": "Hygienic",
             "icon_3": "truck",
-            "image_3": "shopify:\/\/shop_images\/Uresta-Icons-03.png",
+            "image_3": "shopify://shop_images/Uresta-Icons-03.png",
             "heading_3": "Reusable"
           }
         }
@@ -130,6 +146,7 @@
         "title",
         "42b0a5b8-6b8d-4074-a69c-2fdb012da6fc",
         "price",
+        "text_LAr8hH",
         "variant_picker",
         "quantity_selector",
         "254d3c9b-e2d4-4569-8b3d-c2804494a955",
@@ -164,7 +181,7 @@
           "type": "button",
           "settings": {
             "button_label": "✨ Launching soon in the USA - join the waitlist ✨",
-            "button_link": "https:\/\/manage.kmail-lists.com\/subscriptions\/subscribe?a=X7kxCb&g=WsDqzM",
+            "button_link": "https://manage.kmail-lists.com/subscriptions/subscribe?a=X7kxCb&g=WsDqzM",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -190,7 +207,7 @@
         "template--14954976215091__1b9dd641-2b30-4e74-b1b8-87ba849b9499-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Think of us as a brace for your bladder.<\/strong>",
+            "heading": "<strong>Think of us as a brace for your bladder.</strong>",
             "heading_size": "h2"
           }
         }
@@ -213,7 +230,7 @@
         "template--14930299715635__69abbefe-03ae-4038-bd90-e8961b097046-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Landing_Page_Optimizations-15.png",
+            "image": "shopify://shop_images/Landing_Page_Optimizations-15.png",
             "title": "Most of us start life with strong muscles that keep the urethra supported and closed so urine doesn't leak out during everyday activities.",
             "text": "",
             "link_label": "",
@@ -223,8 +240,8 @@
         "template--14930299715635__69abbefe-03ae-4038-bd90-e8961b097046-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Landing_Page_Optimizations-16.png",
-            "title": "Bladder leaks (aka stress urinary incontinence \/ SUI) happen when the muscles that support the urethra lose strength over time or become damaged.",
+            "image": "shopify://shop_images/Landing_Page_Optimizations-16.png",
+            "title": "Bladder leaks (aka stress urinary incontinence / SUI) happen when the muscles that support the urethra lose strength over time or become damaged.",
             "text": "",
             "link_label": "",
             "link": ""
@@ -233,7 +250,7 @@
         "template--14930299715635__69abbefe-03ae-4038-bd90-e8961b097046-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Landing_Page_Optimizations-17.png",
+            "image": "shopify://shop_images/Landing_Page_Optimizations-17.png",
             "title": "Uresta goes inside your vagina where it sits under your urethra and supports it through the vaginal wall. Uresta acts as a supportive shelf to prevent urine from leaking out during moments of pressure (aka sneezing or jumping).",
             "text": "",
             "link_label": "",
@@ -243,7 +260,7 @@
         "d89724f3-a566-4151-8a2d-b9b6204d1ec7": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Landing_Page_Optimizations-18_1.png",
+            "image": "shopify://shop_images/Landing_Page_Optimizations-18_1.png",
             "title": "You can still pee normally with Uresta in, the natural pressure of urinating opens your urethra so urine comes out.",
             "text": "",
             "link_label": "",
@@ -285,7 +302,7 @@
           "settings": {
             "heading": "Will using Uresta long-term make my incontinence worse?",
             "icon": "check_mark",
-            "row_content": "<p><strong>No, it won’t! <\/strong>Uresta is not in the business of pelvic training, so no muscle workouts here, but it’s still a powerhouse against bladder leaks. <\/p><p>Translation: The Uresta doesn’t strengthen your muscles, but it also won’t make your incontinence worse.<\/p>",
+            "row_content": "<p><strong>No, it won’t! </strong>Uresta is not in the business of pelvic training, so no muscle workouts here, but it’s still a powerhouse against bladder leaks. </p><p>Translation: The Uresta doesn’t strengthen your muscles, but it also won’t make your incontinence worse.</p>",
             "page": ""
           }
         },
@@ -294,7 +311,7 @@
           "settings": {
             "heading": "Is Uresta comfortable?",
             "icon": "check_mark",
-            "row_content": "<p>Absolutely! Lots of women find the Uresta surprisingly comfy. Once you have the right size and you push it fully into place, you shouldn’t even notice it’s there. It’s comparable to a tampon or menstrual cup in the way it feels… some say even more comfortable!<\/p>",
+            "row_content": "<p>Absolutely! Lots of women find the Uresta surprisingly comfy. Once you have the right size and you push it fully into place, you shouldn’t even notice it’s there. It’s comparable to a tampon or menstrual cup in the way it feels… some say even more comfortable!</p>",
             "page": ""
           }
         },
@@ -303,7 +320,7 @@
           "settings": {
             "heading": "How long can I wear it?",
             "icon": "check_mark",
-            "row_content": "<p>The Uresta works around your needs. Use it all day for round-the-clock protection, during specific scenarios like a good gym workout, or when you have a bad cold. When wearing it daily, we encourage taking it out before bed and giving your body an overnight break for a few hours of R&R.<\/p><p>Since the Uresta is crafted from a non-absorbent medical-grade material, it does not pose the same risk of toxic shock syndrome as tampons. So, you can keep it in longer, but it’s still a good idea to take it out before hitting the hay.<\/p>",
+            "row_content": "<p>The Uresta works around your needs. Use it all day for round-the-clock protection, during specific scenarios like a good gym workout, or when you have a bad cold. When wearing it daily, we encourage taking it out before bed and giving your body an overnight break for a few hours of R&R.</p><p>Since the Uresta is crafted from a non-absorbent medical-grade material, it does not pose the same risk of toxic shock syndrome as tampons. So, you can keep it in longer, but it’s still a good idea to take it out before hitting the hay.</p>",
             "page": ""
           }
         },
@@ -312,7 +329,7 @@
           "settings": {
             "heading": "Does Uresta cause Urinary Tract Infections (UTIs) or Toxic Shock Syndrome (TSS)?",
             "icon": "check_mark",
-            "row_content": "<p>The Uresta is licensed by Health Canada and cleared by the FDA, and it’s been shown in clinical studies to be a safe and reliable way to manage bladder leaks. Uresta won’t increase your chances of getting a UTI or other infections! <\/p><p>Plus, it’s made of a special material that does not soak up bacteria, so it doesn’t carry the same risk of toxic shock as tampons.<\/p>",
+            "row_content": "<p>The Uresta is licensed by Health Canada and cleared by the FDA, and it’s been shown in clinical studies to be a safe and reliable way to manage bladder leaks. Uresta won’t increase your chances of getting a UTI or other infections! </p><p>Plus, it’s made of a special material that does not soak up bacteria, so it doesn’t carry the same risk of toxic shock as tampons.</p>",
             "page": ""
           }
         },
@@ -321,7 +338,7 @@
           "settings": {
             "heading": "How long can I use before replacing it?",
             "icon": "check_mark",
-            "row_content": "<p>We recommend 1 year. Think of it like a wardrobe refresh. For safety and optimal long-term use, we recommend swapping out your Uresta at least once a year. It’s a hygiene thing, like renewing your toothbrush or switching out your socks. Keep it fresh, keep it comfy!<\/p>",
+            "row_content": "<p>We recommend 1 year. Think of it like a wardrobe refresh. For safety and optimal long-term use, we recommend swapping out your Uresta at least once a year. It’s a hygiene thing, like renewing your toothbrush or switching out your socks. Keep it fresh, keep it comfy!</p>",
             "page": ""
           }
         },
@@ -330,7 +347,7 @@
           "settings": {
             "heading": "Is Uresta covered by insurance?",
             "icon": "check_mark",
-            "row_content": "<p><em>Coverage varies depending on your personal plan, so it’s best to double-check with your provider. Usually, the Uresta falls under medical devices or incontinence supplies. Mention Uresta by name, or ask about pessaries. Plus, if it’s  not covered by your insurance, you can always use your Health Spending Account (HSA) or Flexible Spending Account (FSA) for it, which is pretty handy!<\/em><\/p>",
+            "row_content": "<p><em>Coverage varies depending on your personal plan, so it’s best to double-check with your provider. Usually, the Uresta falls under medical devices or incontinence supplies. Mention Uresta by name, or ask about pessaries. Plus, if it’s  not covered by your insurance, you can always use your Health Spending Account (HSA) or Flexible Spending Account (FSA) for it, which is pretty handy!</em></p>",
             "page": ""
           }
         },
@@ -339,7 +356,7 @@
           "settings": {
             "heading": "Can I have intercourse with Uresta inserted?",
             "icon": "check_mark",
-            "row_content": "<p>Since the Uresta fits cozily in your vagina, it’s best to remove it before diving into sexy time – could get crowded in there!<\/p>",
+            "row_content": "<p>Since the Uresta fits cozily in your vagina, it’s best to remove it before diving into sexy time – could get crowded in there!</p>",
             "page": ""
           }
         },
@@ -348,7 +365,7 @@
           "settings": {
             "heading": "How can I buy Uresta if I'm in the USA?",
             "icon": "check_mark",
-            "row_content": "<p>Uresta is launching this summer in the USA! Be one of the first to know by signing up for our waitlist <a href=\"https:\/\/manage.kmail-lists.com\/subscriptions\/subscribe?a=X7kxCb&g=WsDqzM\" target=\"_blank\"><strong>here<\/strong><\/a>. Inventory is limited, so be sure to get on the list!<\/p>",
+            "row_content": "<p>Uresta is launching this summer in the USA! Be one of the first to know by signing up for our waitlist <a href=\"https://manage.kmail-lists.com/subscriptions/subscribe?a=X7kxCb&g=WsDqzM\" target=\"_blank\"><strong>here</strong></a>. Inventory is limited, so be sure to get on the list!</p>",
             "page": ""
           }
         }
@@ -452,14 +469,14 @@
         "template--14930299715635__972f6ace-4822-4911-ba85-f5e90011c9eb-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Find your perfect fit. Made with <span style=\"text-decoration:underline;\">comfort<\/span> in mind.",
+            "heading": "Find your perfect fit. Made with <span style=\"text-decoration:underline;\">comfort</span> in mind.",
             "heading_size": "h2"
           }
         },
         "template--14930299715635__972f6ace-4822-4911-ba85-f5e90011c9eb-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Every woman is unique and your pelvic floor is no different. That’s why Uresta comes in different sizes for a perfect fit (and no, it has nothing to do with height or weight). Unlike traditional pads, absorbent underwear, and other medical devices, women say it’s surprisingly comfortable!<\/p>",
+            "text": "<p>Every woman is unique and your pelvic floor is no different. That’s why Uresta comes in different sizes for a perfect fit (and no, it has nothing to do with height or weight). Unlike traditional pads, absorbent underwear, and other medical devices, women say it’s surprisingly comfortable!</p>",
             "text_style": "body"
           }
         }
@@ -469,7 +486,7 @@
         "template--14930299715635__972f6ace-4822-4911-ba85-f5e90011c9eb-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/hi_res-9d-Lauren-Barker_r1_someone-called-me_3.jpg",
+        "image": "shopify://shop_images/hi_res-9d-Lauren-Barker_r1_someone-called-me_3.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -496,7 +513,7 @@
         "template--14945099743283__e978545a-12d1-4de4-ae12-e7a83b197a03-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>At Uresta, we keep it simple. We’re the only solution that is readily available, doesn’t require a prescription, or an invasive procedure to improve quality of life.<\/p>"
+            "text": "<p>At Uresta, we keep it simple. We’re the only solution that is readily available, doesn’t require a prescription, or an invasive procedure to improve quality of life.</p>"
           }
         }
       },
@@ -519,7 +536,7 @@
 
       ],
       "settings": {
-        "custom_liquid": "<style>\n.uresta-table {\n  border-collapse: collapse;\n  border-spacing: 0;\n  font-weight: bold;\n  text-align: center;\n  width: 1000px;\n  max-width: 100%;\n  margin: 20px auto;\n  font-size: 16px;\n}\n\n.uresta-table td {\n  border: 2px solid #4a4046;\n  overflow: hidden;\n  padding: 15px 5px;\n  word-break: normal;\n  min-width: 20%;\n  width: 25%;\n}\n\n.uresta-table th {\n  background: #4a4046;\n  border: 2px solid #4a4046;\n  border-bottom: none;\n  color: white;\n  overflow: hidden;\n  padding: 20px 5px;\n  word-break: normal;\n}\n\n.uresta-table th:not(:last-of-type) {\n  border-right-color: white;\n}\n\n.uresta-table td:first-of-type {\n  background: #4a4046;\n  color: white;\n}\n\n.uresta-table tr:first-of-type td {\n  background: #54cddf;\n  color: #4a4046;\n}\n\n.uresta-table tr > *:first-of-type {\n  min-width: 25%;\n}\n\n.uresta-table tr:not(:first-of-type,:last-of-type) td:first-of-type {\n  border-bottom-color: white;\n}\n\n.uresta-table tr:not(:first-of-type) td:nth-of-type(2) {\n  background: #c6eef5;\n}\n\n.uresta-table span {\n  display: block;\n  margin: 0 auto;\n  position: relative;\n  color: transparent;\n  width: 1em;\n  height: 1em;\n}\n.uresta-table span::before,\n.uresta-table span::after {\n  content: \"\";\n  position: absolute;\n  width: 2em;\n  height: 0.5em;\n  border-radius: 1em;\n}\n\n.uresta-table .check-mark::before,\n.uresta-table .check-mark::after {\n  background: #4a4046;\n  transform: rotate(-45deg);\n  top: 0.25em;\n  left: 0;\n}\n\n.uresta-table .check-mark::after {\n  transform: rotate(45deg);\n  width: 1.25em;\n  left: -0.5em;\n  top: 0.5em;\n}\n\n.uresta-table .x-mark {\n  filter: drop-shadow(0 0 1px #4a4046) drop-shadow(0 0 1px #4a4046);\n}\n\n.uresta-table .x-mark::before,\n.uresta-table .x-mark::after {\n  background: white;\n  height: 0.35em;\n  transform: rotate(45deg);\n  top: 0.4em;\n  left: -0.5em;\n  width: 2.25em;\n}\n\n.uresta-table .x-mark::after {\n  transform: rotate(-45deg);\n}\n\n@media screen and (max-width: 1000px) {\n  .uresta-table {\n    width: auto;\n    font-size: 12px;\n  }\n  \n  .uresta-table tr > * {\n    padding: 10px 3px;\n    width: 25%;\n  }\n  \n  .uresta-table-wrap {\n    overflow-x: auto;\n    -webkit-overflow-scrolling: touch;\n  }\n}\n<\/style>\n<div class=\"uresta-table-wrap\">\n  <table class=\"uresta-table\">\n    <thead>\n      <tr>\n        <th>The Benefits<\/th>\n        <th>Uresta<\/th>\n        <th>Pads<\/th>\n        <th>Incontinence Underwear<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td>Stops leaks vs. absorbing<\/td>\n        <td><span class=\"check-mark\">✓<\/span><\/td>\n        <td><span class=\"x-mark\">✗<\/span><\/td>\n        <td><span class=\"x-mark\">✗<\/span><\/td>\n      <\/tr>\n      <tr>\n        <td>No odours or rashes<\/td>\n        <td><span class=\"check-mark\">✓<\/span><\/td>\n        <td><span class=\"x-mark\">✗<\/span><\/td>\n        <td><span class=\"x-mark\">✗<\/span><\/td>\n      <\/tr>\n      <tr>\n        <td>Comfortable &amp; discreet<\/td>\n        <td><span class=\"check-mark\">✓<\/span><\/td>\n        <td><span class=\"x-mark\">✗<\/span><\/td>\n        <td><span class=\"x-mark\">✗<\/span><\/td>\n      <\/tr>\n      <tr>\n        <td>Reusable for 1 year<\/td>\n        <td><span class=\"check-mark\">✓<\/span><\/td>\n        <td><span class=\"x-mark\">✗<\/span><\/td>\n        <td><span class=\"check-mark\">✓<\/span><\/td>\n      <\/tr>\n      <tr>\n        <td>Long-term cost savings<\/td>\n        <td><span class=\"check-mark\">✓<\/span><\/td>\n        <td><span class=\"x-mark\">✗<\/span><\/td>\n        <td><span class=\"x-mark\">✗<\/span><\/td>\n      <\/tr>\n      <tr>\n        <td>Reduces waste<\/td>\n        <td><span class=\"check-mark\">✓<\/span><\/td>\n        <td><span class=\"x-mark\">✗<\/span><\/td>\n        <td><span class=\"check-mark\">✓<\/span><\/td>\n      <\/tr>\n      <tr>\n        <td>Suitable for exercise<\/td>\n        <td><span class=\"check-mark\">✓<\/span><\/td>\n        <td><span class=\"x-mark\">✗<\/span><\/td>\n        <td><span class=\"check-mark\">✓<\/span><\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n<\/div>",
+        "custom_liquid": "<style>\n.uresta-table {\n  border-collapse: collapse;\n  border-spacing: 0;\n  font-weight: bold;\n  text-align: center;\n  width: 1000px;\n  max-width: 100%;\n  margin: 20px auto;\n  font-size: 16px;\n}\n\n.uresta-table td {\n  border: 2px solid #4a4046;\n  overflow: hidden;\n  padding: 15px 5px;\n  word-break: normal;\n  min-width: 20%;\n  width: 25%;\n}\n\n.uresta-table th {\n  background: #4a4046;\n  border: 2px solid #4a4046;\n  border-bottom: none;\n  color: white;\n  overflow: hidden;\n  padding: 20px 5px;\n  word-break: normal;\n}\n\n.uresta-table th:not(:last-of-type) {\n  border-right-color: white;\n}\n\n.uresta-table td:first-of-type {\n  background: #4a4046;\n  color: white;\n}\n\n.uresta-table tr:first-of-type td {\n  background: #54cddf;\n  color: #4a4046;\n}\n\n.uresta-table tr > *:first-of-type {\n  min-width: 25%;\n}\n\n.uresta-table tr:not(:first-of-type,:last-of-type) td:first-of-type {\n  border-bottom-color: white;\n}\n\n.uresta-table tr:not(:first-of-type) td:nth-of-type(2) {\n  background: #c6eef5;\n}\n\n.uresta-table span {\n  display: block;\n  margin: 0 auto;\n  position: relative;\n  color: transparent;\n  width: 1em;\n  height: 1em;\n}\n.uresta-table span::before,\n.uresta-table span::after {\n  content: \"\";\n  position: absolute;\n  width: 2em;\n  height: 0.5em;\n  border-radius: 1em;\n}\n\n.uresta-table .check-mark::before,\n.uresta-table .check-mark::after {\n  background: #4a4046;\n  transform: rotate(-45deg);\n  top: 0.25em;\n  left: 0;\n}\n\n.uresta-table .check-mark::after {\n  transform: rotate(45deg);\n  width: 1.25em;\n  left: -0.5em;\n  top: 0.5em;\n}\n\n.uresta-table .x-mark {\n  filter: drop-shadow(0 0 1px #4a4046) drop-shadow(0 0 1px #4a4046);\n}\n\n.uresta-table .x-mark::before,\n.uresta-table .x-mark::after {\n  background: white;\n  height: 0.35em;\n  transform: rotate(45deg);\n  top: 0.4em;\n  left: -0.5em;\n  width: 2.25em;\n}\n\n.uresta-table .x-mark::after {\n  transform: rotate(-45deg);\n}\n\n@media screen and (max-width: 1000px) {\n  .uresta-table {\n    width: auto;\n    font-size: 12px;\n  }\n  \n  .uresta-table tr > * {\n    padding: 10px 3px;\n    width: 25%;\n  }\n  \n  .uresta-table-wrap {\n    overflow-x: auto;\n    -webkit-overflow-scrolling: touch;\n  }\n}\n</style>\n<div class=\"uresta-table-wrap\">\n  <table class=\"uresta-table\">\n    <thead>\n      <tr>\n        <th>The Benefits</th>\n        <th>Uresta</th>\n        <th>Pads</th>\n        <th>Incontinence Underwear</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td>Stops leaks vs. absorbing</td>\n        <td><span class=\"check-mark\">✓</span></td>\n        <td><span class=\"x-mark\">✗</span></td>\n        <td><span class=\"x-mark\">✗</span></td>\n      </tr>\n      <tr>\n        <td>No odours or rashes</td>\n        <td><span class=\"check-mark\">✓</span></td>\n        <td><span class=\"x-mark\">✗</span></td>\n        <td><span class=\"x-mark\">✗</span></td>\n      </tr>\n      <tr>\n        <td>Comfortable &amp; discreet</td>\n        <td><span class=\"check-mark\">✓</span></td>\n        <td><span class=\"x-mark\">✗</span></td>\n        <td><span class=\"x-mark\">✗</span></td>\n      </tr>\n      <tr>\n        <td>Reusable for 1 year</td>\n        <td><span class=\"check-mark\">✓</span></td>\n        <td><span class=\"x-mark\">✗</span></td>\n        <td><span class=\"check-mark\">✓</span></td>\n      </tr>\n      <tr>\n        <td>Long-term cost savings</td>\n        <td><span class=\"check-mark\">✓</span></td>\n        <td><span class=\"x-mark\">✗</span></td>\n        <td><span class=\"x-mark\">✗</span></td>\n      </tr>\n      <tr>\n        <td>Reduces waste</td>\n        <td><span class=\"check-mark\">✓</span></td>\n        <td><span class=\"x-mark\">✗</span></td>\n        <td><span class=\"check-mark\">✓</span></td>\n      </tr>\n      <tr>\n        <td>Suitable for exercise</td>\n        <td><span class=\"check-mark\">✓</span></td>\n        <td><span class=\"x-mark\">✗</span></td>\n        <td><span class=\"check-mark\">✓</span></td>\n      </tr>\n    </tbody>\n  </table>\n</div>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 52
@@ -540,7 +557,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body"
           }
         },
@@ -562,12 +579,12 @@
       "custom_css": [
         "@media (max-width: 749px) {.image-with-text {display: none; }}",
         ".image-with-text__text-item {display: none;}",
-        "@media (min-width: 1000px) {.image-with-text__media-item {\/*margin: 0 50px;*\/ margin: 0; }}",
+        "@media (min-width: 1000px) {.image-with-text__media-item {/*margin: 0 50px;*/ margin: 0; }}",
         ".image-with-text__media,img {border-radius: 0;}",
         ".image-with-text__media-item:after {box-shadow: none;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Uresta-comparison-chart-desktop-2.jpg",
+        "image": "shopify://shop_images/Uresta-comparison-chart-desktop-2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -596,7 +613,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_style": "body"
           }
         }
@@ -613,7 +630,7 @@
         ".image-with-text__media-item:after {box-shadow: none;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Uresta-comparison-chart-mobile-2.jpg",
+        "image": "shopify://shop_images/Uresta-comparison-chart-mobile-2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -630,7 +647,7 @@
     "d83e3087-973c-4943-8bf4-80f3fcb251a9": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<center><h2>Hundreds of verified reviews.<\/h2><\/center><div style='max-width: 94%; width: 1000px; margin: 0 auto;' id=\"klaviyo-reviews-all\" data-id=\"{{product.id}}\"><\/div>",
+        "custom_liquid": "<center><h2>Hundreds of verified reviews.</h2></center><div style='max-width: 94%; width: 1000px; margin: 0 auto;' id=\"klaviyo-reviews-all\" data-id=\"{{product.id}}\"></div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
