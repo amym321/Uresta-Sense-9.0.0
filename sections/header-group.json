@@ -17,7 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "🔥 Early Black Friday Deal:",
+            "text": "🔥 Black Friday Deal:",
             "text2": "15% off 1 Starter Kit, 25% off 2! Only while stocks last! 👉 Shop Now",
             "text_alignment": "center",
             "color_scheme": "inverse",
